@@ -1,0 +1,2992 @@
+{
+  "users": [
+    {
+      "id": "usr-admin-001",
+      "email": "admin@arjeevi.com",
+      "passwordHash": "$2b$10$.zDMlHZqEv9Aet3gMTtMheRi6vBuH9vQCEociEaga7uetV3uWOOA.",
+      "name": "Arjeevi Admin",
+      "preferredName": "Arjeevi Admin",
+      "role": "admin",
+      "age": 30,
+      "currentLevel": "Advanced",
+      "goals": [
+        "Public speaking",
+        "IT and software careers",
+        "Business and entrepreneurship"
+      ],
+      "confidenceLevel": "I want to become fluent and professional.",
+      "explanationLanguage": "English + Kannada",
+      "dailyGoalMinutes": 30,
+      "onboardingCompleted": true,
+      "streak": 15,
+      "lastActiveDate": "2026-10-22",
+      "lessonsCompleted": [
+        "beg-1",
+        "beg-2",
+        "beg-3",
+        "beg-4",
+        "beg-5",
+        "beg-6"
+      ],
+      "grammarScore": 95,
+      "createdAt": "2026-10-22T16:22:23.665Z",
+      "sessions": [
+        {
+          "sessionId": "sess_dc08a115-a",
+          "ip": "::1",
+          "userAgent": "node",
+          "createdAt": "2026-10-22T17:50:08.365Z",
+          "lastActive": "2026-10-22T17:50:08.365Z"
+        },
+        {
+          "sessionId": "sess_d4eac952-b",
+          "ip": "::1",
+          "userAgent": "node",
+          "createdAt": "2026-10-22T17:51:35.900Z",
+          "lastActive": "2026-10-22T17:51:35.900Z"
+        },
+        {
+          "sessionId": "sess_e27bab17-6",
+          "ip": "::1",
+          "userAgent": "node",
+          "createdAt": "2026-10-22T17:52:39.167Z",
+          "lastActive": "2026-10-22T17:52:39.167Z"
+        }
+      ]
+    },
+    {
+      "id": "usr-demo-learner",
+      "email": "learner@arjeevi.com",
+      "passwordHash": "$2b$10$.zDMlHZqEv9Aet3gMTtMheB812Cly475vltKS9B2OMHRAvDGbtb36",
+      "name": "Pavan Kumar",
+      "preferredName": "Pavan",
+      "role": "learner",
+      "age": 22,
+      "currentLevel": "Beginner",
+      "goals": [
+        "Everyday conversation",
+        "Job interviews"
+      ],
+      "confidenceLevel": "I am afraid to speak.",
+      "explanationLanguage": "Kannada",
+      "dailyGoalMinutes": 15,
+      "onboardingCompleted": true,
+      "streak": 9,
+      "lastActiveDate": "2026-10-22",
+      "lessonsCompleted": [
+        "beg-1",
+        "beg-2",
+        "beg-4"
+      ],
+      "grammarScore": 100,
+      "createdAt": "2026-10-19T16:22:23.715Z",
+      "practiceMinutes": 12,
+      "drillsCompleted": 16,
+      "dailyVocabCompletedDates": [
+        "2026-10-22"
+      ],
+      "sessions": [
+        {
+          "sessionId": "sess_aea1f095-2",
+          "ip": "::1",
+          "userAgent": "Modern Web Browser",
+          "createdAt": "2026-10-22T17:50:58.890Z",
+          "lastActive": "2026-10-22T17:50:58.890Z"
+        },
+        {
+          "sessionId": "sess_4841791b-6",
+          "ip": "::1",
+          "userAgent": "Modern Web Browser",
+          "createdAt": "2026-10-22T17:51:10.920Z",
+          "lastActive": "2026-10-22T17:51:10.920Z"
+        }
+      ]
+    },
+    {
+      "id": "usr_54a8101c",
+      "email": "test_learner_1792686992292@arjeevi.com",
+      "passwordHash": "$2b$10$l/ac6CjEo9/Ly9FFi5xh/OykD9eAtCrgdycfaCPQKldTElfLGrQP.",
+      "name": "Test Learner",
+      "preferredName": "Tester",
+      "role": "learner",
+      "age": 22,
+      "currentLevel": "Intermediate",
+      "goals": [
+        "Job interviews",
+        "Public speaking"
+      ],
+      "confidenceLevel": "I can speak but make mistakes.",
+      "explanationLanguage": "English + Kannada",
+      "dailyGoalMinutes": 20,
+      "onboardingCompleted": true,
+      "streak": 1,
+      "lastActiveDate": "2026-10-22",
+      "lessonsCompleted": [
+        "beg-1",
+        "beg-2",
+        "beg-3"
+      ],
+      "grammarScore": 30,
+      "createdAt": "2026-10-22T16:36:32.387Z",
+      "profilePhoto": null,
+      "topicsOfInterest": [],
+      "preferredPracticeTime": "Evening (6 PM - 9 PM)"
+    },
+    {
+      "id": "usr_d35f85a1",
+      "email": "arjunkumaras1325@gmail.com",
+      "passwordHash": "$2b$10$EuI7lqyY1fj0vgM1UiSMPuH0Fj9jI4aDEmIXhk6DONjGQ.PPNZKba",
+      "name": "ARJUN KUMAR AS",
+      "preferredName": "ARJUN KUMAR AS",
+      "role": "learner",
+      "age": 18,
+      "currentLevel": "Beginner",
+      "goals": [
+        "College and education"
+      ],
+      "confidenceLevel": "I can speak a little.",
+      "explanationLanguage": "English + Kannada",
+      "dailyGoalMinutes": 15,
+      "onboardingCompleted": true,
+      "streak": 1,
+      "lastActiveDate": "2026-10-22",
+      "lessonsCompleted": [],
+      "grammarScore": 0,
+      "createdAt": "2026-10-22T16:38:57.626Z",
+      "profilePhoto": "🚀",
+      "topicsOfInterest": [],
+      "preferredPracticeTime": "Evening (6 PM - 9 PM)"
+    },
+    {
+      "id": "usr_27f2b6ff",
+      "email": "phase1_user_1792688521070@arjeevi.com",
+      "passwordHash": "$2b$10$3UmSfLAh/U8BzwqghyQH1Ow0Q27joV4j4bd.UYnrN5itOkdhqoM1a",
+      "name": "Pooja Hegde",
+      "preferredName": "Pooja H.",
+      "role": "learner",
+      "age": 24,
+      "currentLevel": "Advanced",
+      "goals": [
+        "Job interviews",
+        "Public speaking",
+        "IT and software careers"
+      ],
+      "confidenceLevel": "I can speak but make mistakes.",
+      "explanationLanguage": "English + Kannada",
+      "dailyGoalMinutes": 30,
+      "onboardingCompleted": true,
+      "streak": 1,
+      "lastActiveDate": "2026-10-22",
+      "lessonsCompleted": [],
+      "grammarScore": 0,
+      "createdAt": "2026-10-22T17:02:01.161Z",
+      "profilePhoto": "🌟",
+      "topicsOfInterest": [],
+      "preferredPracticeTime": "Evening (6 PM - 9 PM)"
+    },
+    {
+      "id": "usr_4eafd160",
+      "email": "phase1_user_1792688578811@arjeevi.com",
+      "passwordHash": "$2b$10$KEPjMwRhFN3XnvDlI.Kn8utK3CXdc5L1PrDkzMrcnBRzG8tWlC08a",
+      "name": "Pooja Hegde",
+      "preferredName": "Pooja H.",
+      "role": "learner",
+      "age": 24,
+      "currentLevel": "Advanced",
+      "goals": [
+        "Job interviews",
+        "Public speaking",
+        "IT and software careers"
+      ],
+      "confidenceLevel": "I can speak but make mistakes.",
+      "explanationLanguage": "English + Kannada",
+      "dailyGoalMinutes": 30,
+      "onboardingCompleted": true,
+      "streak": 1,
+      "lastActiveDate": "2026-10-22",
+      "lessonsCompleted": [],
+      "grammarScore": 0,
+      "createdAt": "2026-10-22T17:02:58.898Z",
+      "profilePhoto": "🌟",
+      "topicsOfInterest": [],
+      "preferredPracticeTime": "Evening (6 PM - 9 PM)"
+    },
+    {
+      "id": "usr_784f15de",
+      "email": "phase1_user_1792689129387@arjeevi.com",
+      "passwordHash": "$2b$10$tuMKEv7gA9RBZvHwhT.bTe65.kGzcA4btGKPwO3Qu29VMl2HaEeeC",
+      "name": "Pooja Hegde",
+      "preferredName": "Pooja H.",
+      "role": "learner",
+      "age": 24,
+      "currentLevel": "Advanced",
+      "goals": [
+        "Job interviews",
+        "Public speaking",
+        "IT and software careers"
+      ],
+      "confidenceLevel": "I can speak but make mistakes.",
+      "explanationLanguage": "English + Kannada",
+      "dailyGoalMinutes": 30,
+      "onboardingCompleted": true,
+      "streak": 1,
+      "lastActiveDate": "2026-10-22",
+      "lessonsCompleted": [],
+      "grammarScore": 0,
+      "createdAt": "2026-10-22T17:12:09.450Z",
+      "profilePhoto": "🌟",
+      "topicsOfInterest": [],
+      "preferredPracticeTime": "Evening (6 PM - 9 PM)"
+    },
+    {
+      "id": "usr_471b7868",
+      "email": "phase1_user_1792689815234@arjeevi.com",
+      "passwordHash": "$2b$10$1LS698b/9pdL2tTNvA.S3.BnT/tXLByJwtBkyf3LZpr5A2ZlP5Bee",
+      "name": "Pooja Hegde",
+      "preferredName": "Pooja H.",
+      "role": "learner",
+      "age": 24,
+      "currentLevel": "Advanced",
+      "goals": [
+        "Job interviews",
+        "Public speaking",
+        "IT and software careers"
+      ],
+      "confidenceLevel": "I can speak but make mistakes.",
+      "explanationLanguage": "English + Kannada",
+      "dailyGoalMinutes": 30,
+      "onboardingCompleted": true,
+      "streak": 1,
+      "lastActiveDate": "2026-10-22",
+      "lessonsCompleted": [],
+      "grammarScore": 0,
+      "createdAt": "2026-10-22T17:23:35.302Z",
+      "profilePhoto": "🌟",
+      "topicsOfInterest": [],
+      "preferredPracticeTime": "Evening (6 PM - 9 PM)"
+    },
+    {
+      "id": "usr_9a94dcdb",
+      "email": "phase4_learner_1792690459122@arjeevi.com",
+      "passwordHash": "$2b$10$8d8Drota5jkL9RhI6fA0fudP1mkFvMlT.3bb4eC.izhbqFsSQBCie",
+      "name": "Phase 4 Learner",
+      "preferredName": "Phase 4 Learner",
+      "role": "learner",
+      "age": null,
+      "currentLevel": "Beginner",
+      "goals": [],
+      "confidenceLevel": "I am afraid to speak.",
+      "explanationLanguage": "English",
+      "dailyGoalMinutes": 15,
+      "onboardingCompleted": false,
+      "streak": 1,
+      "lastActiveDate": "2026-10-22",
+      "lessonsCompleted": [],
+      "grammarScore": 40,
+      "createdAt": "2026-10-22T17:34:19.213Z"
+    },
+    {
+      "id": "usr_9566d1de",
+      "email": "phase1_user_1792690509794@arjeevi.com",
+      "passwordHash": "$2b$10$UPRsqyriHNedSSGTeP2T3urdpKA04/G7uuG08xl91mDHjte1Bo6re",
+      "name": "Pooja Hegde",
+      "preferredName": "Pooja H.",
+      "role": "learner",
+      "age": 24,
+      "currentLevel": "Advanced",
+      "goals": [
+        "Job interviews",
+        "Public speaking",
+        "IT and software careers"
+      ],
+      "confidenceLevel": "I can speak but make mistakes.",
+      "explanationLanguage": "English + Kannada",
+      "dailyGoalMinutes": 30,
+      "onboardingCompleted": true,
+      "streak": 1,
+      "lastActiveDate": "2026-10-22",
+      "lessonsCompleted": [],
+      "grammarScore": 0,
+      "createdAt": "2026-10-22T17:35:09.855Z",
+      "profilePhoto": "🌟",
+      "topicsOfInterest": [],
+      "preferredPracticeTime": "Evening (6 PM - 9 PM)"
+    },
+    {
+      "id": "usr_ef9f09a0",
+      "email": "phase4_learner_1792690541731@arjeevi.com",
+      "passwordHash": "$2b$10$Ka/B9X9B2QC/1b7k/78wf.SlUyrnoC0uMM4FO6UNCFdVBtarb99nK",
+      "name": "Phase 4 Learner",
+      "preferredName": "Phase 4 Learner",
+      "role": "learner",
+      "age": null,
+      "currentLevel": "Beginner",
+      "goals": [],
+      "confidenceLevel": "I am afraid to speak.",
+      "explanationLanguage": "English",
+      "dailyGoalMinutes": 15,
+      "onboardingCompleted": false,
+      "streak": 1,
+      "lastActiveDate": "2026-10-22",
+      "lessonsCompleted": [],
+      "grammarScore": 40,
+      "createdAt": "2026-10-22T17:35:41.810Z"
+    },
+    {
+      "id": "usr_b692e890",
+      "email": "phase4_learner_1792690627215@arjeevi.com",
+      "passwordHash": "$2b$10$S6bxJn8uistVLSonX8/I2.v68hCNSpuykUWBQWP9BGAZEqqiiNJ9a",
+      "name": "Phase 4 Learner",
+      "preferredName": "Phase 4 Learner",
+      "role": "learner",
+      "age": null,
+      "currentLevel": "Beginner",
+      "goals": [],
+      "confidenceLevel": "I am afraid to speak.",
+      "explanationLanguage": "English",
+      "dailyGoalMinutes": 15,
+      "onboardingCompleted": false,
+      "streak": 1,
+      "lastActiveDate": "2026-10-22",
+      "lessonsCompleted": [],
+      "grammarScore": 40,
+      "createdAt": "2026-10-22T17:37:07.302Z"
+    },
+    {
+      "id": "usr_ad5af3ca",
+      "email": "phase5_learner_1792691362469@arjeevi.com",
+      "passwordHash": "$2b$10$NoX84wmJynxvPphazBMpZu3H83Ktc9EA8cnOneDNlsJIbjca6TBDi",
+      "name": "Pooja Arjeevi",
+      "preferredName": "Pooja Arjeevi",
+      "role": "learner",
+      "age": null,
+      "currentLevel": "Beginner",
+      "goals": [],
+      "confidenceLevel": "I am afraid to speak.",
+      "explanationLanguage": "English",
+      "dailyGoalMinutes": 15,
+      "onboardingCompleted": false,
+      "streak": 5,
+      "lastActiveDate": "2026-10-22",
+      "lessonsCompleted": [
+        "beg-1",
+        "beg-2",
+        "beg-3",
+        "beg-4"
+      ],
+      "grammarScore": 90,
+      "sessions": [
+        {
+          "sessionId": "sess_458ab3ed-6",
+          "ip": "::1",
+          "userAgent": "node",
+          "createdAt": "2026-10-22T17:49:23.051Z",
+          "lastActive": "2026-10-22T17:49:23.051Z"
+        }
+      ],
+      "notifications": [],
+      "createdAt": "2026-10-22T17:49:22.580Z"
+    },
+    {
+      "id": "usr_61025149",
+      "email": "phase5_learner_1792691407773@arjeevi.com",
+      "passwordHash": "$2b$10$eAF0QkEAqYqLS2PXtFWnb.0hcWDhcGZrOyWwcWMYReFGZzDuPR3MO",
+      "name": "Pooja Arjeevi",
+      "preferredName": "Pooja Arjeevi",
+      "role": "learner",
+      "age": null,
+      "currentLevel": "Beginner",
+      "goals": [],
+      "confidenceLevel": "I am afraid to speak.",
+      "explanationLanguage": "English",
+      "dailyGoalMinutes": 15,
+      "onboardingCompleted": false,
+      "streak": 5,
+      "lastActiveDate": "2026-10-22",
+      "lessonsCompleted": [
+        "beg-1",
+        "beg-2",
+        "beg-3",
+        "beg-4"
+      ],
+      "grammarScore": 90,
+      "sessions": [
+        {
+          "sessionId": "sess_3eb6b8a1-1",
+          "ip": "::1",
+          "userAgent": "node",
+          "createdAt": "2026-10-22T17:50:08.293Z",
+          "lastActive": "2026-10-22T17:50:08.293Z"
+        }
+      ],
+      "notifications": [],
+      "createdAt": "2026-10-22T17:50:07.871Z"
+    },
+    {
+      "id": "usr_ee318ca4",
+      "email": "phase1_user_1792691437493@arjeevi.com",
+      "passwordHash": "$2b$10$cdzGTsOpKl1mDzlQwyq8Oumayp8v8c0JVdr65M2pM7s/WbD6OMiZK",
+      "name": "Pooja Hegde",
+      "preferredName": "Pooja H.",
+      "role": "learner",
+      "age": 24,
+      "currentLevel": "Advanced",
+      "goals": [
+        "Job interviews",
+        "Public speaking",
+        "IT and software careers"
+      ],
+      "confidenceLevel": "I can speak but make mistakes.",
+      "explanationLanguage": "English + Kannada",
+      "dailyGoalMinutes": 30,
+      "onboardingCompleted": true,
+      "streak": 1,
+      "lastActiveDate": "2026-10-22",
+      "lessonsCompleted": [],
+      "grammarScore": 0,
+      "sessions": [
+        {
+          "sessionId": "sess_07357398-1",
+          "ip": "::1",
+          "userAgent": "node",
+          "createdAt": "2026-10-22T17:50:37.556Z",
+          "lastActive": "2026-10-22T17:50:37.556Z"
+        },
+        {
+          "sessionId": "sess_c61b751d-8",
+          "ip": "::1",
+          "userAgent": "node",
+          "createdAt": "2026-10-22T17:50:37.639Z",
+          "lastActive": "2026-10-22T17:50:37.639Z"
+        }
+      ],
+      "notifications": [],
+      "createdAt": "2026-10-22T17:50:37.556Z",
+      "profilePhoto": "🌟",
+      "topicsOfInterest": [],
+      "preferredPracticeTime": "Evening (6 PM - 9 PM)"
+    },
+    {
+      "id": "usr_59eb2dfe",
+      "email": "phase4_learner_1792691483994@arjeevi.com",
+      "passwordHash": "$2b$10$Ma36hsBJHXoghnZUWlqMdO62jMvZwHADB19BiEArvljZywz9RWmhi",
+      "name": "Phase 4 Learner",
+      "preferredName": "Phase 4 Learner",
+      "role": "learner",
+      "age": null,
+      "currentLevel": "Beginner",
+      "goals": [],
+      "confidenceLevel": "I am afraid to speak.",
+      "explanationLanguage": "English",
+      "dailyGoalMinutes": 15,
+      "onboardingCompleted": false,
+      "streak": 1,
+      "lastActiveDate": "2026-10-22",
+      "lessonsCompleted": [],
+      "grammarScore": 40,
+      "sessions": [
+        {
+          "sessionId": "sess_92479ec7-4",
+          "ip": "::1",
+          "userAgent": "node",
+          "createdAt": "2026-10-22T17:51:24.079Z",
+          "lastActive": "2026-10-22T17:51:24.079Z"
+        }
+      ],
+      "notifications": [],
+      "createdAt": "2026-10-22T17:51:24.079Z"
+    },
+    {
+      "id": "usr_4bf39bed",
+      "email": "phase5_learner_1792691495307@arjeevi.com",
+      "passwordHash": "$2b$10$3jnvPivMuAB16RSLWNKfBuhS2acI9zQ/9LvdXaYLYiVJTw5vdKn5.",
+      "name": "Pooja Arjeevi",
+      "preferredName": "Pooja Arjeevi",
+      "role": "learner",
+      "age": null,
+      "currentLevel": "Beginner",
+      "goals": [],
+      "confidenceLevel": "I am afraid to speak.",
+      "explanationLanguage": "English",
+      "dailyGoalMinutes": 15,
+      "onboardingCompleted": false,
+      "streak": 5,
+      "lastActiveDate": "2026-10-22",
+      "lessonsCompleted": [
+        "beg-1",
+        "beg-2",
+        "beg-3",
+        "beg-4"
+      ],
+      "grammarScore": 90,
+      "sessions": [
+        {
+          "sessionId": "sess_5dff0376-8",
+          "ip": "::1",
+          "userAgent": "node",
+          "createdAt": "2026-10-22T17:51:35.810Z",
+          "lastActive": "2026-10-22T17:51:35.810Z"
+        }
+      ],
+      "notifications": [],
+      "createdAt": "2026-10-22T17:51:35.409Z"
+    },
+    {
+      "id": "usr_5074c01e",
+      "email": "phase5_learner_1792691558582@arjeevi.com",
+      "passwordHash": "$2b$10$K8amlkhFJyr4Um2fyJSRqOGtNufVIoz8Q6Xr5mkGBgOVqxW9X9QSa",
+      "name": "Pooja Arjeevi",
+      "preferredName": "Pooja Arjeevi",
+      "role": "learner",
+      "age": null,
+      "currentLevel": "Beginner",
+      "goals": [],
+      "confidenceLevel": "I am afraid to speak.",
+      "explanationLanguage": "English",
+      "dailyGoalMinutes": 15,
+      "onboardingCompleted": false,
+      "streak": 5,
+      "lastActiveDate": "2026-10-22",
+      "lessonsCompleted": [
+        "beg-1",
+        "beg-2",
+        "beg-3",
+        "beg-4"
+      ],
+      "grammarScore": 90,
+      "sessions": [
+        {
+          "sessionId": "sess_aad172ed-7",
+          "ip": "::1",
+          "userAgent": "node",
+          "createdAt": "2026-10-22T17:52:39.077Z",
+          "lastActive": "2026-10-22T17:52:39.077Z"
+        }
+      ],
+      "notifications": [],
+      "createdAt": "2026-10-22T17:52:38.681Z"
+    }
+  ],
+  "trials": [
+    {
+      "userId": "usr-demo-learner",
+      "trialStartDate": "2026-10-19T16:22:23.715Z",
+      "trialEndDate": "2026-11-09T16:22:23.715Z",
+      "isTrialActive": true,
+      "consistencyBonusDays": 14,
+      "bonusHistory": [
+        {
+          "period": "2026-10",
+          "daysAdded": 14,
+          "reason": "Top 3 Learning Streak Rank with 8 active streak days!",
+          "awardedAt": "2026-10-22T17:49:22.710Z"
+        }
+      ]
+    },
+    {
+      "userId": "usr_54a8101c",
+      "trialStartDate": "2026-10-22T16:36:32.523Z",
+      "trialEndDate": "2026-10-29T16:36:32.523Z",
+      "isTrialActive": true,
+      "consistencyBonusDays": 0,
+      "bonusHistory": []
+    },
+    {
+      "userId": "usr_d35f85a1",
+      "trialStartDate": "2026-10-22T16:39:45.483Z",
+      "trialEndDate": "2026-10-29T16:39:45.483Z",
+      "isTrialActive": true,
+      "consistencyBonusDays": 0,
+      "bonusHistory": []
+    },
+    {
+      "userId": "usr_ad5af3ca",
+      "trialStartDate": "2026-10-22T17:49:22.603Z",
+      "trialEndDate": "2026-10-29T17:49:22.603Z",
+      "isTrialActive": true,
+      "consistencyBonusDays": 0,
+      "bonusHistory": []
+    },
+    {
+      "userId": "usr_61025149",
+      "trialStartDate": "2026-10-22T17:50:07.902Z",
+      "trialEndDate": "2026-10-29T17:50:07.902Z",
+      "isTrialActive": true,
+      "consistencyBonusDays": 0,
+      "bonusHistory": []
+    },
+    {
+      "userId": "usr_4bf39bed",
+      "trialStartDate": "2026-10-22T17:51:35.442Z",
+      "trialEndDate": "2026-10-29T17:51:35.442Z",
+      "isTrialActive": true,
+      "consistencyBonusDays": 0,
+      "bonusHistory": []
+    },
+    {
+      "userId": "usr_5074c01e",
+      "trialStartDate": "2026-10-22T17:52:38.707Z",
+      "trialEndDate": "2026-10-29T17:52:38.707Z",
+      "isTrialActive": true,
+      "consistencyBonusDays": 0,
+      "bonusHistory": []
+    }
+  ],
+  "subscriptions": [
+    {
+      "userId": "usr_54a8101c",
+      "planId": "ai-teacher-monthly-49",
+      "status": "active",
+      "amount": 49,
+      "currency": "INR",
+      "orderId": "order_1792686992601_2df5b93d",
+      "paymentId": "pay_test_suite_123",
+      "signatureVerified": true,
+      "startDate": "2026-10-22T16:36:32.616Z",
+      "expiryDate": "2026-11-21T16:36:32.616Z",
+      "autoRenew": true,
+      "updatedAt": "2026-10-22T16:36:32.616Z"
+    },
+    {
+      "userId": "usr_d35f85a1",
+      "planId": "ai-teacher-monthly-49",
+      "status": "active",
+      "amount": 49,
+      "currency": "INR",
+      "orderId": "order_1792687310097_3c1eca61",
+      "paymentId": "pay_test_1792687310099",
+      "signatureVerified": true,
+      "startDate": "2026-10-22T16:41:50.105Z",
+      "expiryDate": "2026-11-21T16:41:50.105Z",
+      "autoRenew": true,
+      "updatedAt": "2026-10-22T16:41:50.105Z"
+    },
+    {
+      "userId": "usr_ad5af3ca",
+      "planId": "ai-teacher-student-monthly",
+      "planName": "Student Fluency Pass",
+      "status": "active",
+      "amount": 49,
+      "currency": "INR",
+      "orderId": "order_1792691362652_8ab5827c",
+      "paymentId": "pay_test_1792691362674",
+      "signatureVerified": true,
+      "startDate": "2026-10-22T17:49:22.683Z",
+      "expiryDate": "2026-11-21T17:49:22.683Z",
+      "autoRenew": true,
+      "updatedAt": "2026-10-22T17:49:22.683Z"
+    },
+    {
+      "userId": "usr_61025149",
+      "planId": "ai-teacher-student-monthly",
+      "planName": "Student Fluency Pass",
+      "status": "active",
+      "amount": 49,
+      "currency": "INR",
+      "orderId": "order_1792691407948_f66ea0b1",
+      "paymentId": "pay_test_1792691407969",
+      "signatureVerified": true,
+      "startDate": "2026-10-22T17:50:07.972Z",
+      "expiryDate": "2026-11-21T17:50:07.972Z",
+      "autoRenew": true,
+      "updatedAt": "2026-10-22T17:50:07.972Z"
+    },
+    {
+      "userId": "usr_4bf39bed",
+      "planId": "ai-teacher-student-monthly",
+      "planName": "Student Fluency Pass",
+      "status": "active",
+      "amount": 49,
+      "currency": "INR",
+      "orderId": "order_1792691495472_1a4a9cf9",
+      "paymentId": "pay_test_1792691495484",
+      "signatureVerified": true,
+      "startDate": "2026-10-22T17:51:35.492Z",
+      "expiryDate": "2026-11-21T17:51:35.492Z",
+      "autoRenew": true,
+      "updatedAt": "2026-10-22T17:51:35.492Z"
+    },
+    {
+      "userId": "usr_5074c01e",
+      "planId": "ai-teacher-student-monthly",
+      "planName": "Student Fluency Pass",
+      "status": "active",
+      "amount": 49,
+      "currency": "INR",
+      "orderId": "order_1792691558742_7890131e",
+      "paymentId": "pay_test_1792691558763",
+      "signatureVerified": true,
+      "startDate": "2026-10-22T17:52:38.773Z",
+      "expiryDate": "2026-11-21T17:52:38.773Z",
+      "autoRenew": true,
+      "updatedAt": "2026-10-22T17:52:38.773Z"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "beg-1",
+      "level": "Beginner",
+      "order": 1,
+      "title": "Alphabet & Spoken Word Foundations",
+      "description": "Master core English phonetics, vowels, consonants, and everyday basic words.",
+      "estimatedMinutes": 15,
+      "content": {
+        "summary": "English has 26 letters: 5 vowels (A, E, I, O, U) and 21 consonants. Vowel sounds shape the way we speak words clearly. Common mistake: pronouncing silent letters or rushing consonant clusters.",
+        "rules": [
+          "Vowels create open mouth sounds (cat, bed, sit, top, cup).",
+          "Consonant blends require clear articulation (st, pl, gr, cl).",
+          "Always pronounce the final sound of a word clearly so listeners understand you easily."
+        ],
+        "examples": [
+          {
+            "english": "Good morning, how are you today?",
+            "kannada": "ಶುಭೋದಯ, ನೀವು ಇಂದು ಹೇಗಿದ್ದೀರಿ?",
+            "note": "Polite everyday morning greeting"
+          },
+          {
+            "english": "My name is Rahul and I am from Bengaluru.",
+            "kannada": "ನನ್ನ ಹೆಸರು ರಾಹುಲ್ ಮತ್ತು ನಾನು ಬೆಂಗಳೂರಿನವನು.",
+            "note": "Introducing yourself simply"
+          }
+        ],
+        "practicePrompts": [
+          "Say: \"Pleasure to meet you, my friend.\"",
+          "Spell your name aloud using clear vowel sounds."
+        ],
+        "quiz": [
+          {
+            "q": "Which letters in English are vowels?",
+            "options": [
+              "A, E, I, O, U",
+              "B, C, D, F, G",
+              "X, Y, Z",
+              "S, T, R, P"
+            ],
+            "answer": 0,
+            "explanation": "The 5 English vowels are A, E, I, O, and U. They provide the core vocal sounds in English syllables."
+          }
+        ]
+      }
+    },
+    {
+      "id": "beg-2",
+      "level": "Beginner",
+      "order": 2,
+      "title": "Nouns and Pronouns in Daily Life",
+      "description": "Learn how to refer to people, places, objects, and replace nouns with pronouns without confusion.",
+      "estimatedMinutes": 20,
+      "content": {
+        "summary": "A noun is a naming word (person, place, thing, idea). A pronoun replaces a noun so we do not repeat it awkwardly (I, you, he, she, it, we, they).",
+        "rules": [
+          "Use \"He\" for a male person, \"She\" for a female person, and \"It\" for objects or non-human subjects.",
+          "Use \"They\" for multiple people or gender-neutral singular references.",
+          "Possessive pronouns: My, your, his, her, their, our (e.g., \"This is my book\")."
+        ],
+        "examples": [
+          {
+            "english": "Pooja is a teacher. She loves teaching English.",
+            "kannada": "ಪೂಜಾ ಶಿಕ್ಷಕಿ. ಅವಳು ಇಂಗ್ಲಿಷ್ ಕಲಿಸಲು ಇಷ್ಟಪಡುತ್ತಾಳೆ.",
+            "note": "\"She\" replaces \"Pooja\""
+          },
+          {
+            "english": "This is my laptop. It is very fast.",
+            "kannada": "ಇದು ನನ್ನ ಲ್ಯಾಪ್‌ಟಾಪ್. ಇದು ತುಂಬಾ ವೇಗವಾಗಿದೆ.",
+            "note": "\"It\" replaces \"laptop\""
+          }
+        ],
+        "practicePrompts": [
+          "Substitute pronouns: \"Anand and Meena went to the library.\"",
+          "Talk about your best friend using \"He\" or \"She\"."
+        ],
+        "quiz": [
+          {
+            "q": "Which pronoun should replace \"My sister\" in: \"My sister lives in Mysuru. ___ is a doctor.\"",
+            "options": [
+              "He",
+              "She",
+              "It",
+              "They"
+            ],
+            "answer": 1,
+            "explanation": "\"She\" is the correct singular feminine subject pronoun for \"My sister\"."
+          }
+        ]
+      }
+    },
+    {
+      "id": "beg-3",
+      "level": "Beginner",
+      "order": 3,
+      "title": "Action Verbs and Vivid Adjectives",
+      "description": "Express what you do and describe feelings, things, and people with confidence.",
+      "estimatedMinutes": 20,
+      "content": {
+        "summary": "Verbs are action words (run, speak, learn, create, listen). Adjectives describe nouns (friendly, quick, bright, confident, nervous).",
+        "rules": [
+          "Adjectives usually come BEFORE the noun: \"a friendly teacher\", \"a confident speaker\".",
+          "Verbs must agree with their subject: \"I speak\", but \"He speaks\" (add -s for 3rd person singular in present simple)."
+        ],
+        "examples": [
+          {
+            "english": "She speaks English with great confidence.",
+            "kannada": "ಅವಳು ಉತ್ತಮ ಆತ್ಮವಿಶ್ವಾಸದಿಂದ ಇಂಗ್ಲಿಷ್ ಮಾತನಾಡುತ್ತಾಳೆ.",
+            "note": "Verb: speaks, Adjective: great"
+          },
+          {
+            "english": "We learn new words every morning.",
+            "kannada": "ನಾವು ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ ಹೊಸ ಪದಗಳನ್ನು ಕಲಿಯುತ್ತೇವೆ.",
+            "note": "Verb: learn, Adjective: new"
+          }
+        ],
+        "practicePrompts": [
+          "Describe your city using 3 positive adjectives.",
+          "Name 5 action verbs you performed today."
+        ],
+        "quiz": [
+          {
+            "q": "Find the adjective in the sentence: \"Arjeevi is a patient mentor.\"",
+            "options": [
+              "Arjeevi",
+              "is",
+              "patient",
+              "mentor"
+            ],
+            "answer": 2,
+            "explanation": "\"Patient\" is an adjective that describes the noun \"mentor\"."
+          }
+        ]
+      }
+    },
+    {
+      "id": "beg-3b",
+      "level": "Beginner",
+      "order": 4,
+      "title": "Adverbs: Manner, Frequency, Time & Place",
+      "description": "Explain HOW, WHEN, and WHERE actions happen using words like quickly, always, often, and gracefully.",
+      "estimatedMinutes": 20,
+      "content": {
+        "summary": "An adverb modifies a verb, an adjective, or another adverb. Most adverbs of manner end in \"-ly\" (slowly, clearly, politely). Adverbs of frequency tell how often an action occurs (always, often, rarely, never).",
+        "rules": [
+          "Adverb of manner: placed after the main verb (\"She speaks softly\").",
+          "Adverb of frequency: placed BEFORE the main verb (\"I always practice English\", but AFTER the verb to be: \"He is always polite\").",
+          "Do not confuse adjective and adverb: \"He is a fast runner\" (adjective) vs \"He runs fast\" (adverb)."
+        ],
+        "examples": [
+          {
+            "english": "He explained the concept very clearly.",
+            "kannada": "ಅವರು ಪರಿಕಲ್ಪನೆಯನ್ನು ಬಹಳ ಸ್ಪಷ್ಟವಾಗಿ ವಿವರಿಸಿದರು.",
+            "note": "\"clearly\" is an adverb of manner"
+          },
+          {
+            "english": "I usually drink filter coffee in the morning.",
+            "kannada": "ನಾನು ಸಾಮಾನ್ಯವಾಗಿ ಬೆಳಿಗ್ಗೆ ಫಿಲ್ಟರ್ ಕಾಫಿ ಕುಡಿಯುತ್ತೇನೆ.",
+            "note": "\"usually\" is an adverb of frequency"
+          }
+        ],
+        "practicePrompts": [
+          "Say 3 things you ALWAYS do and 1 thing you NEVER do.",
+          "Describe how you walk when you are in a hurry."
+        ],
+        "quiz": [
+          {
+            "q": "Identify the adverb in: \"She answered all interview questions confidently.\"",
+            "options": [
+              "answered",
+              "interview",
+              "questions",
+              "confidently"
+            ],
+            "answer": 3,
+            "explanation": "\"Confidently\" is an adverb describing the manner in which she answered."
+          }
+        ]
+      }
+    },
+    {
+      "id": "beg-4",
+      "level": "Beginner",
+      "order": 5,
+      "title": "Articles: A, An, and The",
+      "description": "Stop guessing articles. Know exactly when to use \"a\", \"an\", and \"the\".",
+      "estimatedMinutes": 15,
+      "content": {
+        "summary": "\"A\" and \"An\" are indefinite articles used with singular countable nouns. \"The\" is the definite article used when referring to a specific item known to both speaker and listener.",
+        "rules": [
+          "Use \"A\" before consonant SOUNDS: a book, a university (starts with \"yoo\" sound), a car.",
+          "Use \"An\" before vowel SOUNDS: an apple, an honest person (\"h\" is silent), an hour.",
+          "Use \"The\" for unique or specific things: The sun, the Taj Mahal, the book you gave me."
+        ],
+        "examples": [
+          {
+            "english": "I saw an eagle in the park.",
+            "kannada": "ನಾನು ಉದ್ಯಾನದಲ್ಲಿ ಒಂದು ಗಿಡುಗವನ್ನು ನೋಡಿದೆ.",
+            "note": "\"an eagle\" (vowel sound), \"the park\" (specific)"
+          },
+          {
+            "english": "He is an honest police officer.",
+            "kannada": "ಅವರು ಪ್ರಾಮಾಣಿಕ ಪೊಲೀಸ್ ಅಧಿಕಾರಿ.",
+            "note": "\"an\" before silent h in \"honest\""
+          }
+        ],
+        "practicePrompts": [
+          "Practice: \"___ umbrella\", \"___ university\", \"___ European country\"."
+        ],
+        "quiz": [
+          {
+            "q": "Choose the correct article: \"She waited for ___ hour at the bus stand.\"",
+            "options": [
+              "a",
+              "an",
+              "the",
+              "no article needed"
+            ],
+            "answer": 1,
+            "explanation": "\"Hour\" begins with a vowel sound (/aʊər/), because the \"h\" is silent. Hence, use \"an\"."
+          }
+        ]
+      }
+    },
+    {
+      "id": "beg-5",
+      "level": "Beginner",
+      "order": 6,
+      "title": "Prepositions of Time and Place (In, On, At)",
+      "description": "Never get confused about whether to say \"in Monday\" or \"on Monday\" again.",
+      "estimatedMinutes": 20,
+      "content": {
+        "summary": "Prepositions connect nouns or pronouns to other words in the sentence. For time and place: AT is for specific points, ON is for surfaces and days, IN is for enclosed spaces and long time periods.",
+        "rules": [
+          "Time: AT 5:00 PM (specific time); ON Monday (day/date); IN 2026, IN October (months, years, seasons).",
+          "Place: AT the bus stop (specific point); ON the table (surface); IN the room, IN Bengaluru (enclosed space, city, country)."
+        ],
+        "examples": [
+          {
+            "english": "Our live speaking club starts at 7:00 PM on Friday.",
+            "kannada": "ನಮ್ಮ ಲೈವ್ ಸ್ಪೀಕಿಂಗ್ ಕ್ಲಬ್ ಶುಕ್ರವಾರ ಸಂಜೆ 7:00 ಗಂಟೆಗೆ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ.",
+            "note": "\"at 7:00 PM\", \"on Friday\""
+          },
+          {
+            "english": "I live in Karnataka, India.",
+            "kannada": "ನಾನು ಭಾರತದ ಕರ್ನಾಟಕದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದೇನೆ.",
+            "note": "\"in\" for state/country"
+          }
+        ],
+        "practicePrompts": [
+          "Fill in: \"I was born ___ May ___ 10:00 AM ___ a Sunday.\"",
+          "Tell the AI Teacher where you are sitting right now using AT, ON, and IN."
+        ],
+        "quiz": [
+          {
+            "q": "Which preposition fits: \"The weekly English debate takes place ___ Saturday morning.\"",
+            "options": [
+              "in",
+              "on",
+              "at",
+              "by"
+            ],
+            "answer": 1,
+            "explanation": "We use the preposition \"on\" for days of the week and specific days."
+          }
+        ]
+      }
+    },
+    {
+      "id": "beg-6",
+      "level": "Beginner",
+      "order": 7,
+      "title": "Sentence Structure & Negative Forms (S-V-O)",
+      "description": "The golden formula for confident English sentence construction without hesitation.",
+      "estimatedMinutes": 20,
+      "content": {
+        "summary": "Standard English word order follows S-V-O: Subject (who/what) + Verb (action) + Object (receiver of action). For negatives, add do/does/did + not before the base verb.",
+        "rules": [
+          "Positive S-V-O: Subject + Verb + Object (\"Ravi drinks tea\").",
+          "Negative: Subject + does not (doesn't) / do not (don't) + Base Verb (\"Ravi does not drink coffee\").",
+          "Common slip: Never say \"He don't\" — always say \"He doesn't\"."
+        ],
+        "examples": [
+          {
+            "english": "Arjun drinks warm water every morning.",
+            "kannada": "ಅರ್ಜುನ್ ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ ಬಿಸಿ ನೀರು ಕುಡಿಯುತ್ತಾನೆ.",
+            "note": "Subject: Arjun, Verb: drinks, Object: warm water"
+          },
+          {
+            "english": "She does not like crowded places.",
+            "kannada": "ಅವಳು ಜನದಟ್ಟಣೆಯ ಸ್ಥಳಗಳನ್ನು ಇಷ್ಟಪಡುವುದಿಲ್ಲ.",
+            "note": "\"does not like\", not \"don't likes\""
+          }
+        ],
+        "practicePrompts": [
+          "Form 1 positive S-V-O sentence and convert it to negative.",
+          "Arrange: \"coffee / does / drink / not / he\""
+        ],
+        "quiz": [
+          {
+            "q": "Which sentence is grammatically correct?",
+            "options": [
+              "He don't know the correct address.",
+              "He doesn't knows the correct address.",
+              "He doesn't know the correct address.",
+              "He not know the correct address."
+            ],
+            "answer": 2,
+            "explanation": "Use \"doesn't\" with singular third person (He), followed by base verb \"know\"."
+          }
+        ]
+      }
+    },
+    {
+      "id": "beg-7",
+      "level": "Beginner",
+      "order": 8,
+      "title": "Mastering Present, Past, and Future Tenses",
+      "description": "Talk smoothly about your daily routine, yesterday's events, and tomorrow's plans.",
+      "estimatedMinutes": 25,
+      "content": {
+        "summary": "Tenses locate actions in time: Present Simple (habits/facts), Past Simple (completed actions), Future Simple (intentions/predictions).",
+        "rules": [
+          "Present: \"I study every evening.\" / \"He studies every evening.\"",
+          "Past: \"I studied yesterday.\" (regular verbs add -ed; irregular verbs change: eat -> ate, speak -> spoke, go -> went).",
+          "Future: \"I will study tomorrow.\""
+        ],
+        "examples": [
+          {
+            "english": "Yesterday, I spoke with a partner for 15 minutes.",
+            "kannada": "ನಿನ್ನೆ, ನಾನು 15 ನಿಮಿಷಗಳ ಕಾಲ ಪಾಲುದಾರರೊಂದಿಗೆ ಮಾತನಾಡಿದೆ.",
+            "note": "Past tense of speak is spoke"
+          },
+          {
+            "english": "Tomorrow, I will participate in the Quiz Arena.",
+            "kannada": "ನಾಳೆ, ನಾನು ರಸಪ್ರಶ್ನೆ ಅರೆನಾದಲ್ಲಿ ಭಾಗವಹಿಸುತ್ತೇನೆ.",
+            "note": "Future tense using will"
+          }
+        ],
+        "practicePrompts": [
+          "Say what you ate for lunch yesterday (Past).",
+          "Say what you will do tomorrow morning (Future)."
+        ],
+        "quiz": [
+          {
+            "q": "Choose the correct past tense form: \"Last Sunday, they ___ to the tech seminar.\"",
+            "options": [
+              "go",
+              "went",
+              "gone",
+              "going"
+            ],
+            "answer": 1,
+            "explanation": "\"Went\" is the past simple form of the irregular verb \"go\"."
+          }
+        ]
+      }
+    },
+    {
+      "id": "beg-8",
+      "level": "Beginner",
+      "order": 9,
+      "title": "Essential Spoken Vocabulary & Connectors",
+      "description": "Expand your word bank with conversational transition words: because, although, however, therefore.",
+      "estimatedMinutes": 20,
+      "content": {
+        "summary": "Vocabulary is your toolbox. Connectors link short sentences into fluent, natural speech.",
+        "rules": [
+          "Use \"because\" to state reasons: \"I practice daily because I want a promotion.\"",
+          "Use \"but\" or \"however\" to show contrast: \"I was shy, but now I speak freely.\"",
+          "Use \"and\" to add information: \"I read books and watch educational videos.\""
+        ],
+        "examples": [
+          {
+            "english": "I want to speak fluently because it helps my career.",
+            "kannada": "ನಾನು ನಿರರ್ಗಳವಾಗಿ ಮಾತನಾಡಲು ಬಯಸುತ್ತೇನೆ ಏಕೆಂದರೆ ಇದು ನನ್ನ ವೃತ್ತಿಜೀವನಕ್ಕೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+            "note": "\"because\" introduces the reason"
+          }
+        ],
+        "practicePrompts": [
+          "Join: \"English is challenging.\" + \"I enjoy learning it every day.\""
+        ],
+        "quiz": [
+          {
+            "q": "Which connector shows a contrast?",
+            "options": [
+              "Because",
+              "And",
+              "Although",
+              "So"
+            ],
+            "answer": 2,
+            "explanation": "\"Although\" introduces a contrast or concession between two clauses."
+          }
+        ]
+      }
+    },
+    {
+      "id": "beg-9",
+      "level": "Beginner",
+      "order": 10,
+      "title": "Asking WH- Questions & Polite Confident Answers",
+      "description": "Ask WH- questions (What, Where, When, Why, Who, How) and respond with polite warmth.",
+      "estimatedMinutes": 20,
+      "content": {
+        "summary": "Mastering question formation is the secret to initiating natural conversations with peers and interviewers.",
+        "rules": [
+          "WH-Question formula: Question Word + Auxiliary Verb + Subject + Main Verb? (\"Where do you live?\")",
+          "Polite responses: Start with \"Certainly\", \"I would be glad to\", or \"Thank you for asking\"."
+        ],
+        "examples": [
+          {
+            "english": "Could you please repeat that slowly?",
+            "kannada": "ದಯವಿಟ್ಟು ಅದನ್ನು ನಿಧಾನವಾಗಿ ಪುನರಾವರ್ತಿಸಬಹುದೇ?",
+            "note": "Polite request when you missed a sentence"
+          },
+          {
+            "english": "What do you enjoy doing on weekends?",
+            "kannada": "ವಾರಾಂತ್ಯದಲ್ಲಿ ನೀವು ಏನು ಮಾಡಲು ಇಷ್ಟಪಡುತ್ತೀರಿ?",
+            "note": "Friendly open-ended question"
+          }
+        ],
+        "practicePrompts": [
+          "Ask your partner about their current job or college.",
+          "Practice asking someone for directions to the train station."
+        ],
+        "quiz": [
+          {
+            "q": "Which is the most grammatically correct question?",
+            "options": [
+              "Where you are working currently?",
+              "Where do you work currently?",
+              "Where are working you currently?",
+              "Where work you currently?"
+            ],
+            "answer": 1,
+            "explanation": "\"Where do you work currently?\" follows WH-word + auxiliary \"do\" + subject \"you\" + base verb \"work\"."
+          }
+        ]
+      }
+    },
+    {
+      "id": "int-1",
+      "level": "Intermediate",
+      "order": 1,
+      "title": "Sentence Expansion & Descriptive Flow",
+      "description": "Transform basic 4-word sentences into rich, compelling expressions with relative clauses.",
+      "estimatedMinutes": 25,
+      "content": {
+        "summary": "Instead of saying \"I have a car. It is blue. It is fast.\", learn to say \"I drive a fast blue car that saves fuel efficiently.\"",
+        "rules": [
+          "Use relative pronouns: who (for people), which/that (for things), where (for places).",
+          "Use participial phrases: \"Walking into the office, she greeted her team with a smile.\""
+        ],
+        "examples": [
+          {
+            "english": "The engineer who solved the critical bug received a standing ovation.",
+            "kannada": "ಕ್ಲಿಷ್ಟಕರ ದೋಷವನ್ನು ಪರಿಹರಿಸಿದ ಎಂಜಿನಿಯರ್‌ಗೆ ಎದ್ದುನಿಂತು ಗೌರವ ಸಲ್ಲಿಸಲಾಯಿತು."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Combine: \"This is the company. I worked here for three years.\"",
+            "options": [
+              "This is the company where I worked for three years.",
+              "This is the company which I worked for three years.",
+              "This is the company who I worked for three years.",
+              "This is the company what I worked for three years."
+            ],
+            "answer": 0,
+            "explanation": "\"Where\" refers to a place or workplace."
+          }
+        ]
+      }
+    },
+    {
+      "id": "int-2",
+      "level": "Intermediate",
+      "order": 2,
+      "title": "Conditionals (Zero, First, Second & Third)",
+      "description": "Master \"If\" clauses for hypothetical scenarios, career plans, and professional advice.",
+      "estimatedMinutes": 25,
+      "content": {
+        "summary": "Conditionals express cause and effect across reality and imagination.",
+        "rules": [
+          "Zero: If you heat water, it boils (scientific truth).",
+          "First: If I practice today, I will speak better tomorrow (real possibility).",
+          "Second: If I had more time, I would learn a third language (hypothetical present).",
+          "Third: If I had prepared earlier, I would have cleared the test (past regret)."
+        ],
+        "examples": [
+          {
+            "english": "If we prepare our slides thoroughly, the client will be impressed.",
+            "kannada": "ನಾವು ನಮ್ಮ ಸ್ಲೈಡ್‌ಗಳನ್ನು ಸಮಗ್ರವಾಗಿ ಸಿದ್ಧಪಡಿಸಿದರೆ, ಕ್ಲೈಂಟ್ ಪ್ರಭಾವಿತರಾಗುತ್ತಾರೆ."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Complete: \"If I ___ you, I would accept the job offer immediately.\"",
+            "options": [
+              "am",
+              "was",
+              "were",
+              "have been"
+            ],
+            "answer": 2,
+            "explanation": "In the second conditional (hypothetical present), \"were\" is standard for all subjects (\"If I were you\")."
+          }
+        ]
+      }
+    },
+    {
+      "id": "int-3",
+      "level": "Intermediate",
+      "order": 3,
+      "title": "Active vs. Passive Voice in Professional Writing",
+      "description": "Know when to highlight the action instead of the person in emails and reports.",
+      "estimatedMinutes": 20,
+      "content": {
+        "summary": "Active voice is direct and energetic (\"Arjun wrote the report\"). Passive voice is objective and formal (\"The report was written by Arjun\" or \"The invoice has been paid\").",
+        "rules": [
+          "Use Active voice for clear communication, leadership, and storytelling.",
+          "Use Passive voice when the actor is unknown, obvious, or when delivering diplomatic bad news: \"An error was detected in the invoice.\""
+        ],
+        "examples": [
+          {
+            "english": "All meeting notes were sent to the attendees yesterday.",
+            "kannada": "ನಿನ್ನೆ ಎಲ್ಲಾ ಸಭೆಯ ಟಿಪ್ಪಣಿಗಳನ್ನು ಭಾಗವಹಿಸಿದವರಿಗೆ ಕಳುಹಿಸಲಾಗಿದೆ."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Identify the passive sentence:",
+            "options": [
+              "The team launched the software yesterday.",
+              "The software was launched by the team yesterday.",
+              "The team will celebrate the launch.",
+              "The software performs exceptionally well."
+            ],
+            "answer": 1,
+            "explanation": "\"The software was launched by the team\" puts the receiver of the action in the subject position with form of \"be\" + past participle."
+          }
+        ]
+      }
+    },
+    {
+      "id": "int-4",
+      "level": "Intermediate",
+      "order": 4,
+      "title": "College & Campus Life: Seminars, Discussions & Group Collaboration",
+      "description": "Express your insights confidently during campus seminars, project meetings, and professor discussions.",
+      "estimatedMinutes": 25,
+      "content": {
+        "summary": "Campus communication requires clarity, respect, and collaborative tone. Knowing how to raise questions in seminars and contribute in group projects earns academic respect.",
+        "rules": [
+          "Asking clarification in lectures: \"Professor, could you elaborate on the second case study?\"",
+          "Contributing in group projects: \"Building on what Ramesh suggested, we could also test this module first.\"",
+          "Addressing professors politely: Always begin with \"Respected Professor\" or \"Excuse me, Dr. Sharma\"."
+        ],
+        "examples": [
+          {
+            "english": "I would like to add a quick observation regarding the project scope.",
+            "kannada": "ಪ್ರಾಜೆಕ್ಟ್ ವ್ಯಾಪ್ತಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ನಾನು ತ್ವರಿತ ಅವಲೋಕನವನ್ನು ಸೇರಿಸಲು ಬಯಸುತ್ತೇನೆ."
+          },
+          {
+            "english": "Could we schedule a 10-minute sync before our lab demonstration?",
+            "kannada": "ನಮ್ಮ ಲ್ಯಾಬ್ ಪ್ರಾತ್ಯಕ್ಷಿಕೆಗೆ ಮೊದಲು ನಾವು 10 ನಿಮಿಷಗಳ ಚರ್ಚೆಯನ್ನು ನಿಗದಿಪಡಿಸಬಹುದೇ?"
+          }
+        ],
+        "practicePrompts": [
+          "Roleplay: Ask a professor for an extension on your research assignment politely.",
+          "Propose an idea to your group project team."
+        ],
+        "quiz": [
+          {
+            "q": "What is the most professional way to ask a speaker to explain a slide again?",
+            "options": [
+              "Hey, go back to slide 3, I didn't get it.",
+              "Pardon me, could you kindly revisit slide 3 to clarify the conclusion?",
+              "Your explanation of slide 3 was confusing.",
+              "Show slide 3 again please."
+            ],
+            "answer": 1,
+            "explanation": "\"Pardon me, could you kindly revisit slide 3...\" is respectful, polite, and articulately formulated."
+          }
+        ]
+      }
+    },
+    {
+      "id": "int-5",
+      "level": "Intermediate",
+      "order": 5,
+      "title": "Job Interview Mastery: Answering \"Tell Me About Yourself\" & STAR Method",
+      "description": "Structure interview answers using the STAR method (Situation, Task, Action, Result) to impress HR and technical panels.",
+      "estimatedMinutes": 30,
+      "content": {
+        "summary": "Interviews are not memory tests — they are storytelling sessions. The STAR framework keeps your answers concise, structured, and focused on achievements.",
+        "rules": [
+          "Situation: Set the scene briefly (10-15 seconds).",
+          "Task: State what needed to be achieved (10 seconds).",
+          "Action: Emphasize YOUR specific contribution (30-40 seconds).",
+          "Result: Conclude with measurable positive impact or lesson learned (15-20 seconds)."
+        ],
+        "examples": [
+          {
+            "english": "In my final year, our web application faced high latency. I optimized our database indexing, which improved load times by 40%.",
+            "kannada": "ನನ್ನ ಅಂತಿಮ ವರ್ಷದಲ್ಲಿ ನಮ್ಮ ವೆಬ್ ಅಪ್ಲಿಕೇಶನ್ ವಿಳಂಬವನ್ನು ಎದುರಿಸಿತು. ನಾನು ಡೇಟಾಬೇಸ್ ಇಂಡೆಕ್ಸಿಂಗ್ ಆಪ್ಟಿಮೈಸ್ ಮಾಡಿದೆ, ಇದು ಲೋಡ್ ಸಮಯವನ್ನು 40% ಸುಧಾರಿಸಿತು."
+          }
+        ],
+        "practicePrompts": [
+          "Deliver a 60-second answer to: \"Tell me about a challenging bug or deadline you handled.\""
+        ],
+        "quiz": [
+          {
+            "q": "What does the acronym STAR stand for in behavioral interviews?",
+            "options": [
+              "Skills, Talents, Ambition, Readiness",
+              "Situation, Task, Action, Result",
+              "Study, Train, Apply, Repeat",
+              "Speaking, Talking, Articulating, Responding"
+            ],
+            "answer": 1,
+            "explanation": "STAR stands for Situation, Task, Action, and Result — the universally accepted behavioral interview framework."
+          }
+        ]
+      }
+    },
+    {
+      "id": "int-6",
+      "level": "Intermediate",
+      "order": 6,
+      "title": "Workplace Communication: Professional Emails, Meetings & Client Calls",
+      "description": "Write crisp professional emails, participate actively in standups, and handle client inquiries gracefully.",
+      "estimatedMinutes": 25,
+      "content": {
+        "summary": "Workplace English values clarity, conciseness, and tact. Avoid informal slang or aggressive phrasing. Learn to communicate project status, delays, and updates with calm poise.",
+        "rules": [
+          "Avoid Indian English redundancy: Say \"Please reply\" or \"Please revert\" (never \"revert back\").",
+          "Say \"I will handle this\" instead of \"I will do the needful\".",
+          "Standup updates formula: \"Yesterday I completed X. Today I am focused on Y. I have zero blockers.\""
+        ],
+        "examples": [
+          {
+            "english": "Please find the revised proposal attached for your review.",
+            "kannada": "ನಿಮ್ಮ ಪರಿಶೀಲನೆಗಾಗಿ ಪರಿಷ್ಕೃತ ಪ್ರಸ್ತಾವನೆಯನ್ನು ಲಗತ್ತಿಸಲಾಗಿದೆ."
+          },
+          {
+            "english": "I will investigate this issue and provide an update by 4:00 PM today.",
+            "kannada": "ನಾನು ಈ ಸಮಸ್ಯೆಯನ್ನು ಪರಿಶೀಲಿಸುತ್ತೇನೆ ಮತ್ತು ಇಂದು ಸಂಜೆ 4:00 ಗಂಟೆಯೊಳಗೆ ಅಪ್‌ಡೇಟ್ ನೀಡುತ್ತೇನೆ."
+          }
+        ],
+        "practicePrompts": [
+          "Draft a 3-sentence email notifying a manager that a deliverable is ready.",
+          "Deliver your 45-second daily standup update."
+        ],
+        "quiz": [
+          {
+            "q": "Which phrase is the most natural in modern professional business English?",
+            "options": [
+              "Kindly do the needful at the earliest.",
+              "Please let me know if you would like any modifications to this draft.",
+              "Please revert back to my email today.",
+              "I am write this email for requesting leave."
+            ],
+            "answer": 1,
+            "explanation": "\"Please let me know if you would like any modifications to this draft\" is polite, modern, and natural."
+          }
+        ]
+      }
+    },
+    {
+      "id": "int-7",
+      "level": "Intermediate",
+      "order": 7,
+      "title": "Expressing Opinions, Agreeing, and Disagreeing Politely in Discussions",
+      "description": "Share your perspective boldly without sounding confrontational. Master conversational diplomacy.",
+      "estimatedMinutes": 25,
+      "content": {
+        "summary": "In meetings, debates, and social discussions, your ability to express opinions respectfully determines how influential you are. Disagree with the idea, never the person.",
+        "rules": [
+          "Agreeing: \"I completely agree with that point\", \"You hit the nail on the head\", \"I share that view.\"",
+          "Polite Disagreeing: \"I see what you mean, however...\", \"From another angle...\", \"I respectfully see it a bit differently.\"",
+          "Expressing Opinions: \"In my experience...\", \"From my perspective...\", \"I believe that...\""
+        ],
+        "examples": [
+          {
+            "english": "I appreciate your input, but we also have to consider user privacy.",
+            "kannada": "ನಾನು ನಿಮ್ಮ ಸಲಹೆಯನ್ನು ಪ್ರಶಂಸಿಸುತ್ತೇನೆ, ಆದರೆ ನಾವು ಬಳಕೆದಾರರ ಗೌಪ್ಯತೆಯನ್ನು ಸಹ ಪರಿಗಣಿಸಬೇಕು."
+          }
+        ],
+        "practicePrompts": [
+          "Disagree politely with the statement: \"Remote work reduces team productivity.\""
+        ],
+        "quiz": [
+          {
+            "q": "Which is the most diplomatic way to express disagreement in a meeting?",
+            "options": [
+              "That is completely wrong and impractical.",
+              "I see where you're coming from, but let's also look at the budget impact.",
+              "No, we can never do that.",
+              "You don't understand the problem."
+            ],
+            "answer": 1,
+            "explanation": "Acknowledging the other person's view before introducing a constraint (\"I see where you're coming from, but...\") preserves teamwork and harmony."
+          }
+        ]
+      }
+    },
+    {
+      "id": "adv-1",
+      "level": "Advanced",
+      "order": 1,
+      "title": "Nuanced Rhetoric & Persuasive Speaking",
+      "description": "Use ethos, pathos, logos, and rhetorical cadence to move an audience and win debates.",
+      "estimatedMinutes": 30,
+      "content": {
+        "summary": "Persuasion is the highest form of language mastery. It combines factual evidence (logos), personal credibility (ethos), and emotional resonance (pathos).",
+        "rules": [
+          "The Rule of Three (Tricolon): Grouping points in triads creates rhythm (\"Clear, concise, and compelling\").",
+          "Contrast and Antithesis: Juxtapose opposing ideas (\"Not because it is easy, but because it is necessary\").",
+          "Modality for diplomacy: Use subtle modals (might, could, appears to) rather than dogmatic assertions."
+        ],
+        "examples": [
+          {
+            "english": "We do not seek comfort in the familiar; we seek growth in the challenging.",
+            "kannada": "ನಾವು ಪರಿಚಿತತೆಯಲ್ಲಿ ಸೌಕರ್ಯವನ್ನು ಹುಡುಕುವುದಿಲ್ಲ; ನಾವು ಸವಾಲಿನಲ್ಲಿ ಬೆಳವಣಿಗೆಯನ್ನು ಬಯಸುತ್ತೇವೆ."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which rhetorical device is used in \"Government of the people, by the people, for the people\"?",
+            "options": [
+              "Metaphor",
+              "Tricolon / Rule of Three",
+              "Alliteration",
+              "Hyperbole"
+            ],
+            "answer": 1,
+            "explanation": "A tricolon is a rhetorical term for a series of three parallel words, phrases, or clauses."
+          }
+        ]
+      }
+    },
+    {
+      "id": "adv-2",
+      "level": "Advanced",
+      "order": 2,
+      "title": "Corporate Executive Communication & Boardroom Presence",
+      "description": "Speak like an industry leader: conciseness, BLUF (Bottom Line Up Front), and executive presence.",
+      "estimatedMinutes": 30,
+      "content": {
+        "summary": "Senior executives do not have time for winding preambles. State your conclusion or recommendation first, follow with 2-3 data points, and outline the decision needed.",
+        "rules": [
+          "BLUF Framework: Bottom Line Up Front.",
+          "Eliminate filler qualifiers: Avoid \"I just wanted to check if maybe...\" -> Replace with \"I recommend we proceed with...\"",
+          "Handle interruptions with poise: \"Allow me to complete this crucial metric, and I will gladly address your question.\""
+        ],
+        "examples": [
+          {
+            "english": "To increase team velocity by 25%, I recommend migrating to automated CI/CD pipelines this quarter.",
+            "kannada": "ತಂಡದ ಕೆಲಸದ ವೇಗವನ್ನು 25% ಹೆಚ್ಚಿಸಲು, ಈ ತ್ರೈಮಾಸಿಕದಲ್ಲಿ ಸ್ವಯಂಚಾಲಿತ CI/CD ಪೈಪ್‌ಲೈನ್‌ಗಳಿಗೆ ಪರಿವರ್ತನೆಯಾಗಲು ನಾನು ಶಿಫಾರಸು ಮಾಡುತ್ತೇನೆ."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does the executive communication acronym BLUF stand for?",
+            "options": [
+              "Business Leadership Under Focus",
+              "Bottom Line Up Front",
+              "Brief Layout Using Facts",
+              "Board Level Urgent Feedback"
+            ],
+            "answer": 1,
+            "explanation": "BLUF stands for \"Bottom Line Up Front\" — stating the most critical insight or decision right at the start."
+          }
+        ]
+      }
+    },
+    {
+      "id": "adv-3",
+      "level": "Advanced",
+      "order": 3,
+      "title": "High-Impact Presentations & Public Speaking: The Hook, Story & CTA",
+      "description": "Command the stage, captivate audiences with vocal dynamics, and deliver memorable presentations.",
+      "estimatedMinutes": 35,
+      "content": {
+        "summary": "Great speakers are not born; they follow a repeatable presentation blueprint: Grab attention with a Hook, take the audience through a Story of tension and resolution, and close with a compelling Call to Action (CTA).",
+        "rules": [
+          "The Hook (First 30 seconds): A provocative question, surprising statistic, or vivid story.",
+          "Vocal Dynamics: Vary pitch, pace, and pause intentionally before crucial insights.",
+          "Slide Minimalism: Slides should display visual aids, not walls of text for you to read aloud."
+        ],
+        "examples": [
+          {
+            "english": "Imagine waking up every morning eager to speak English with zero hesitation. That reality begins today.",
+            "kannada": "ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ ಯಾವುದೇ ಹಿಂಜರಿಕೆಯಿಲ್ಲದೆ ಇಂಗ್ಲಿಷ್ ಮಾತನಾಡಲು ಉತ್ಸುಕರಾಗಿ ಎಚ್ಚರಗೊಳ್ಳುವುದನ್ನು ಊಹಿಸಿಕೊಳ್ಳಿ. ಆ ವಾಸ್ತವವು ಇಂದೇ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ."
+          }
+        ],
+        "practicePrompts": [
+          "Deliver a 45-second presentation opening hook about the future of artificial intelligence in education."
+        ],
+        "quiz": [
+          {
+            "q": "What is the primary objective of a presentation's opening \"Hook\"?",
+            "options": [
+              "To read the slide agenda bullet by bullet",
+              "To immediately seize the audience's curiosity and attention",
+              "To apologize for being nervous",
+              "To explain the technical architecture in minute detail"
+            ],
+            "answer": 1,
+            "explanation": "The Hook's role is to captivate curiosity within the first 30 seconds so listeners lean in."
+          }
+        ]
+      }
+    },
+    {
+      "id": "adv-4",
+      "level": "Advanced",
+      "order": 4,
+      "title": "Debating Confidently & Spontaneous Impromptu Speaking (Extempore)",
+      "description": "Structure ideas in 5 seconds when asked to speak on unexpected topics in meetings and competitions.",
+      "estimatedMinutes": 35,
+      "content": {
+        "summary": "Impromptu speaking (extempore) terrifies most people because they try to think of too many things at once. Use the PREP formula (Point, Reason, Example, Point) to speak coherently on any topic with zero preparation.",
+        "rules": [
+          "Point: State your main thesis clearly in 1 sentence.",
+          "Reason: Explain WHY you believe that thesis.",
+          "Example: Give a concrete real-world illustration or personal story.",
+          "Point: Restate your concluding point with conviction."
+        ],
+        "examples": [
+          {
+            "english": "Consistency outweighs talent. When you practice 15 minutes daily, compound interest transforms your fluency.",
+            "kannada": "ಸ್ಥಿರತೆಯು ಪ್ರತಿಭೆಗಿಂತ ಮೇಲುಗೈ ಸಾಧಿಸುತ್ತದೆ. ನೀವು ಪ್ರತಿದಿನ 15 ನಿಮಿಷ ಅಭ್ಯಾಸ ಮಾಡಿದಾಗ, ಅದು ನಿಮ್ಮ ನಿರರ್ಗಳತೆಯನ್ನು ಪರಿವರ್ತಿಸುತ್ತದೆ."
+          }
+        ],
+        "practicePrompts": [
+          "Pick any random object in your room (pen, bottle, window) and deliver a 60-second speech using PREP."
+        ],
+        "quiz": [
+          {
+            "q": "What does the impromptu speaking acronym PREP stand for?",
+            "options": [
+              "Prepare, Rehearse, Execute, Perfect",
+              "Point, Reason, Example, Point",
+              "Plan, Review, Explain, Present",
+              "Prompt, Respond, Evaluate, Proceed"
+            ],
+            "answer": 1,
+            "explanation": "PREP stands for Point, Reason, Example, Point — the premier formula for structured impromptu speaking."
+          }
+        ]
+      }
+    }
+  ],
+  "fillInBlanks": [
+    {
+      "id": "fib-1",
+      "difficulty": "Beginner",
+      "sentence": "The sun rises in the ____ and sets in the west.",
+      "options": [
+        "east",
+        "north",
+        "south",
+        "ground"
+      ],
+      "answer": "east",
+      "explanation": "In English and geography, the sun always rises in the east."
+    },
+    {
+      "id": "fib-2",
+      "difficulty": "Beginner",
+      "sentence": "She ____ to the English learning club every Wednesday.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "wenting"
+      ],
+      "answer": "goes",
+      "explanation": "With third-person singular subjects (he, she, it) in the simple present tense, add \"-s\" or \"-es\" to the verb (go -> goes)."
+    },
+    {
+      "id": "fib-3",
+      "difficulty": "Beginner",
+      "sentence": "Can you please lend me ____ pencil for the lecture?",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "some"
+      ],
+      "answer": "a",
+      "explanation": "\"Pencil\" is a singular countable noun starting with a consonant sound, so we use the indefinite article \"a\"."
+    },
+    {
+      "id": "fib-4",
+      "difficulty": "Intermediate",
+      "sentence": "She has been working at this software company ____ 2024.",
+      "options": [
+        "since",
+        "for",
+        "from",
+        "in"
+      ],
+      "answer": "since",
+      "explanation": "Use \"since\" with a specific starting point in time (since 2024, since morning). Use \"for\" with a duration of time (for 2 years)."
+    },
+    {
+      "id": "fib-5",
+      "difficulty": "Intermediate",
+      "sentence": "Neither the manager nor the team members ____ available for the demo.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "are being"
+      ],
+      "answer": "were",
+      "explanation": "With \"neither... nor...\", the verb agrees with the subject closer to it. \"Team members\" is plural, so we use \"were\"."
+    },
+    {
+      "id": "fib-6",
+      "difficulty": "Advanced",
+      "sentence": "Had I known about the emergency meeting, I ____ attended without hesitation.",
+      "options": [
+        "would have",
+        "will have",
+        "would had",
+        "had"
+      ],
+      "answer": "would have",
+      "explanation": "Inverted third conditional structure (\"Had I known...\") requires \"would have\" + past participle in the result clause."
+    },
+    {
+      "id": "fib-7",
+      "difficulty": "Advanced",
+      "sentence": "The board recommended that the project ____ postponed until Q4.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "were"
+      ],
+      "answer": "be",
+      "explanation": "English subjunctive mood following verbs of urging or recommending (recommend, suggest, insist) uses the base verb form (\"be\")."
+    }
+  ],
+  "sentenceBuilder": [
+    {
+      "id": "sb-1",
+      "difficulty": "Beginner",
+      "targetSentence": "She speaks English with great confidence.",
+      "shuffledWords": [
+        "speaks",
+        "confidence.",
+        "with",
+        "She",
+        "English",
+        "great"
+      ],
+      "explanation": "Subject (\"She\") + Verb (\"speaks\") + Object (\"English\") + Prepositional phrase (\"with great confidence.\")."
+    },
+    {
+      "id": "sb-2",
+      "difficulty": "Beginner",
+      "targetSentence": "We practice conversation every single day.",
+      "shuffledWords": [
+        "single",
+        "We",
+        "every",
+        "practice",
+        "day.",
+        "conversation"
+      ],
+      "explanation": "Subject (\"We\") + Verb (\"practice\") + Object (\"conversation\") + Time expression (\"every single day.\")."
+    },
+    {
+      "id": "sb-3",
+      "difficulty": "Intermediate",
+      "targetSentence": "Although he was nervous, he delivered an inspiring presentation.",
+      "shuffledWords": [
+        "an",
+        "nervous,",
+        "inspiring",
+        "Although",
+        "delivered",
+        "he",
+        "was",
+        "presentation.",
+        "he"
+      ],
+      "explanation": "Concessive clause (\"Although he was nervous\") followed by the main clause (\"he delivered an inspiring presentation.\")."
+    },
+    {
+      "id": "sb-4",
+      "difficulty": "Advanced",
+      "targetSentence": "Under no circumstances should you disclose confidential user credentials.",
+      "shuffledWords": [
+        "you",
+        "Under",
+        "circumstances",
+        "confidential",
+        "no",
+        "disclose",
+        "user",
+        "should",
+        "credentials."
+      ],
+      "explanation": "Negative inversion: Negative adverbial (\"Under no circumstances\") + auxiliary (\"should\") + subject (\"you\") + main verb (\"disclose\")."
+    }
+  ],
+  "weeklyQuizzes": [
+    {
+      "id": "wq-2026-w43",
+      "title": "Weekly Grand English Championship — Spoken Fluency & Grammar Arena",
+      "topic": "Everyday Idioms, Professional Tenses & Conversational Etiquette",
+      "startTime": "2026-10-19T00:00:00.000Z",
+      "endTime": "2026-10-26T23:59:59.000Z",
+      "durationMinutes": 10,
+      "totalQuestions": 5,
+      "questions": [
+        {
+          "id": "q1",
+          "question": "What does the common idiom \"break the ice\" mean in a conversation?",
+          "options": [
+            "To make people feel more comfortable and start talking",
+            "To drink iced coffee during a discussion",
+            "To interrupt an argument angrily",
+            "To end a speaking call abruptly"
+          ],
+          "answer": 0,
+          "explanation": "\"To break the ice\" means to do or say something that relieves tension and initiates friendly conversation with strangers."
+        },
+        {
+          "id": "q2",
+          "question": "Which of the following is the most polite way to disagree during an interview or debate?",
+          "options": [
+            "You are completely wrong about that.",
+            "I see your perspective, however, another angle to consider is...",
+            "That makes no sense whatsoever.",
+            "No, that is not true."
+          ],
+          "answer": 1,
+          "explanation": "Acknowledging the other speaker's perspective before offering an alternative view (\"I see your perspective, however...\") is the cornerstone of diplomatic communication."
+        },
+        {
+          "id": "q3",
+          "question": "Choose the correct sentence:",
+          "options": [
+            "Each of the students have submitted their project.",
+            "Each of the students has submitted their project.",
+            "Each of the students are submitting their project.",
+            "Each of the student have submitted their project."
+          ],
+          "answer": 1,
+          "explanation": "\"Each\" is a singular distributive pronoun and takes a singular verb (\"has submitted\")."
+        },
+        {
+          "id": "q4",
+          "question": "In spoken English, what is the best reply when someone says \"Thank you so much for your assistance!\"?",
+          "options": [
+            "It was my pleasure! Happy to help anytime.",
+            "Yes, I know I helped.",
+            "You owe me one.",
+            "Okay fine."
+          ],
+          "answer": 0,
+          "explanation": "\"It was my pleasure! Happy to help anytime\" is warm, professional, and gracious."
+        },
+        {
+          "id": "q5",
+          "question": "Which word describes a person who speaks multiple languages fluently?",
+          "options": [
+            "Omniscient",
+            "Polyglot",
+            "Benefactor",
+            "Philosopher"
+          ],
+          "answer": 1,
+          "explanation": "A polyglot is someone who knows and speaks several languages."
+        }
+      ],
+      "leaderboard": [
+        {
+          "rank": 1,
+          "name": "Ananya S.",
+          "score": 100,
+          "timeSeconds": 142,
+          "date": "2026-10-20"
+        },
+        {
+          "rank": 2,
+          "name": "Karthik Gowda",
+          "score": 100,
+          "timeSeconds": 168,
+          "date": "2026-10-21"
+        },
+        {
+          "rank": 3,
+          "name": "Priya Raman",
+          "score": 80,
+          "timeSeconds": 195,
+          "date": "2026-10-21"
+        },
+        {
+          "userId": "usr_9a94dcdb",
+          "name": "Phase 4 Learner",
+          "score": 40,
+          "timeSeconds": 45,
+          "date": "2026-10-22",
+          "rank": 4
+        }
+      ]
+    }
+  ],
+  "debateTopics": [
+    {
+      "id": "deb-1",
+      "title": "Is AI Replacing or Augmenting Human Creativity and Jobs?",
+      "category": "Technology & Society",
+      "description": "Explore the fast-evolving balance between machine intelligence and irreplaceable human empathy, nuance, and innovation.",
+      "rules": [
+        "Round 1 (60s): Proposition presents primary opening arguments.",
+        "Round 2 (60s): Opposition presents rebuttal and counter-arguments.",
+        "Round 3 (45s each): Cross-examination and open discussion.",
+        "Round 4 (30s each): Closing summary and learning reflections."
+      ],
+      "propositionPoints": [
+        "AI automates repetitive tasks, freeing humans to solve creative, strategic problems.",
+        "New industries, prompt engineers, and ethical curators are emerging worldwide.",
+        "Historically, every technological leap (electricity, internet) created more jobs than it replaced."
+      ],
+      "oppositionPoints": [
+        "Rapid dislocation in entry-level coding, writing, and design hurts junior career entry.",
+        "Wealth concentration among a few AI monopolies risks deepening societal inequality.",
+        "Over-reliance on automated models may erode genuine critical thinking and authentic expression."
+      ],
+      "suggestedVocabulary": [
+        "Augmentation",
+        "Disruption",
+        "Cognitive burden",
+        "Paradigm shift",
+        "Unprecedented"
+      ]
+    },
+    {
+      "id": "deb-2",
+      "title": "Should Remote Work be Considered a Fundamental Workplace Right?",
+      "category": "Career & Work Culture",
+      "description": "Examine work-life balance, global talent accessibility, and productivity versus in-person camaraderie and spontaneous team innovation.",
+      "rules": [
+        "Round 1: Opening arguments (60s)",
+        "Round 2: Rebuttal (60s)",
+        "Round 3: Open dialogue & closing notes"
+      ],
+      "propositionPoints": [
+        "Eliminates soul-draining traffic commutes, reducing mental fatigue and pollution.",
+        "Democratizes job opportunities for talent living in tier-2 and tier-3 towns.",
+        "Empowers parents and caregivers to sustain long-term productive careers."
+      ],
+      "oppositionPoints": [
+        "Spontaneous corridor discussions and creative mentorship are harder in virtual calls.",
+        "Blurry boundaries between home and office often lead to silent professional burnout.",
+        "Certain hands-on roles, laboratory work, and collaborative physical crafts require presence."
+      ],
+      "suggestedVocabulary": [
+        "Asynchronous",
+        "Commute",
+        "Autonomy",
+        "Proximity bias",
+        "Work-life integration"
+      ]
+    }
+  ],
+  "peerCallLogs": [
+    {
+      "callId": "call_prop_1792690459412_64vb8p",
+      "callerId": "test_user_b",
+      "calleeId": "test_user_a",
+      "startTime": "2026-10-22T17:34:19.413Z",
+      "endTime": "2026-10-22T17:34:19.421Z",
+      "durationSeconds": 0
+    },
+    {
+      "callId": "call_prop_1792690627518_5jvh9j",
+      "callerId": "test_user_b_1792690627399",
+      "calleeId": "test_user_a_1792690627399",
+      "startTime": "2026-10-22T17:37:07.520Z",
+      "endTime": "2026-10-22T17:37:07.524Z",
+      "durationSeconds": 0
+    },
+    {
+      "callId": "call_prop_1792691484286_1wobdk",
+      "callerId": "test_user_b_1792691484167",
+      "calleeId": "test_user_a_1792691484167",
+      "startTime": "2026-10-22T17:51:24.288Z",
+      "endTime": "2026-10-22T17:51:24.295Z",
+      "durationSeconds": 0
+    }
+  ],
+  "blockedPairs": [
+    {
+      "user1": "test_user_a",
+      "user2": "test_user_b",
+      "createdAt": "2026-10-22T17:34:19.428Z"
+    },
+    {
+      "user1": "test_user_a_1792690627399",
+      "user2": "test_user_b_1792690627399",
+      "createdAt": "2026-10-22T17:37:07.531Z"
+    },
+    {
+      "user1": "test_user_a_1792691484167",
+      "user2": "test_user_b_1792691484167",
+      "createdAt": "2026-10-22T17:51:24.300Z"
+    }
+  ],
+  "userReports": [
+    {
+      "id": "rep_1792690459428",
+      "reporterId": "test_user_a",
+      "reportedUserId": "test_user_b",
+      "reason": "Inappropriate language or abuse",
+      "comments": "Automated verification test of safety report system.",
+      "createdAt": "2026-10-22T17:34:19.428Z"
+    },
+    {
+      "id": "rep_1792690627531",
+      "reporterId": "test_user_a_1792690627399",
+      "reportedUserId": "test_user_b_1792690627399",
+      "reason": "Inappropriate language or abuse",
+      "comments": "Automated verification test of safety report system.",
+      "createdAt": "2026-10-22T17:37:07.531Z"
+    },
+    {
+      "id": "rep_1792691484300",
+      "reporterId": "test_user_a_1792691484167",
+      "reportedUserId": "test_user_b_1792691484167",
+      "reason": "Inappropriate language or abuse",
+      "comments": "Automated verification test of safety report system.",
+      "createdAt": "2026-10-22T17:51:24.300Z"
+    }
+  ],
+  "certificates": [
+    {
+      "certificateId": "ARJ-2026-BA6070D2",
+      "userId": "usr_ad5af3ca",
+      "learnerName": "Pooja Arjeevi",
+      "preferredName": "Pooja Arjeevi",
+      "level": "Beginner",
+      "title": "Certificate of Spoken English Proficiency (Beginner Level)",
+      "issuedDate": "2026-10-22T17:49:22.761Z",
+      "verificationCode": "ARJ-2026-BA6070D2",
+      "verificationUrl": "/verify/ARJ-2026-BA6070D2",
+      "skillsAssessed": [
+        "Conversational Speaking Fluency & Phonetics",
+        "Grammar Accuracy & Sentence Formation",
+        "Everyday Spoken Vocabulary & Connectors",
+        "Active Listening & Polite Conversational Etiquette"
+      ],
+      "issuingAuthority": "LEARN WITH ARJEEVI Spoken English Academy",
+      "disclaimer": "This is a verified platform achievement certificate awarded upon rigorous completion of speech and grammar assessments."
+    },
+    {
+      "certificateId": "ARJ-2026-284DB1C6",
+      "userId": "usr_61025149",
+      "learnerName": "Pooja Arjeevi",
+      "preferredName": "Pooja Arjeevi",
+      "level": "Beginner",
+      "title": "Certificate of Spoken English Proficiency (Beginner Level)",
+      "issuedDate": "2026-10-22T17:50:08.025Z",
+      "verificationCode": "ARJ-2026-284DB1C6",
+      "verificationUrl": "/verify/ARJ-2026-284DB1C6",
+      "skillsAssessed": [
+        "Conversational Speaking Fluency & Phonetics",
+        "Grammar Accuracy & Sentence Formation",
+        "Everyday Spoken Vocabulary & Connectors",
+        "Active Listening & Polite Conversational Etiquette"
+      ],
+      "issuingAuthority": "LEARN WITH ARJEEVI Spoken English Academy",
+      "disclaimer": "This is a verified platform achievement certificate awarded upon rigorous completion of speech and grammar assessments."
+    },
+    {
+      "certificateId": "ARJ-2026-E7D7FB71",
+      "userId": "usr_4bf39bed",
+      "learnerName": "Pooja Arjeevi",
+      "preferredName": "Pooja Arjeevi",
+      "level": "Beginner",
+      "title": "Certificate of Spoken English Proficiency (Beginner Level)",
+      "issuedDate": "2026-10-22T17:51:35.540Z",
+      "verificationCode": "ARJ-2026-E7D7FB71",
+      "verificationUrl": "/verify/ARJ-2026-E7D7FB71",
+      "skillsAssessed": [
+        "Conversational Speaking Fluency & Phonetics",
+        "Grammar Accuracy & Sentence Formation",
+        "Everyday Spoken Vocabulary & Connectors",
+        "Active Listening & Polite Conversational Etiquette"
+      ],
+      "issuingAuthority": "LEARN WITH ARJEEVI Spoken English Academy",
+      "disclaimer": "This is a verified platform achievement certificate awarded upon rigorous completion of speech and grammar assessments."
+    },
+    {
+      "certificateId": "ARJ-2026-46C6E5AD",
+      "userId": "usr_5074c01e",
+      "learnerName": "Pooja Arjeevi",
+      "preferredName": "Pooja Arjeevi",
+      "level": "Beginner",
+      "title": "Certificate of Spoken English Proficiency (Beginner Level)",
+      "issuedDate": "2026-10-22T17:52:38.819Z",
+      "verificationCode": "ARJ-2026-46C6E5AD",
+      "verificationUrl": "/verify/ARJ-2026-46C6E5AD",
+      "skillsAssessed": [
+        "Conversational Speaking Fluency & Phonetics",
+        "Grammar Accuracy & Sentence Formation",
+        "Everyday Spoken Vocabulary & Connectors",
+        "Active Listening & Polite Conversational Etiquette"
+      ],
+      "issuingAuthority": "LEARN WITH ARJEEVI Spoken English Academy",
+      "disclaimer": "This is a verified platform achievement certificate awarded upon rigorous completion of speech and grammar assessments."
+    }
+  ],
+  "securityEvents": [
+    {
+      "id": "sec-1792691559098-esz48",
+      "timestamp": "2026-10-22T17:52:39.098Z",
+      "resolved": false,
+      "eventType": "UNAUTHORIZED_ACCESS_ATTEMPT",
+      "severity": "HIGH",
+      "ip": "::1",
+      "path": "/api/security/stats",
+      "userId": "usr_5074c01e",
+      "details": "User with role [learner] attempted to access protected resource: /api/security/stats",
+      "recommendedAction": "Validate token integrity and verify role permissions."
+    },
+    {
+      "id": "sec-1792691558996-y36q9",
+      "timestamp": "2026-10-22T17:52:38.996Z",
+      "resolved": false,
+      "eventType": "PASSWORD_RESET_COMPLETED",
+      "severity": "INFO",
+      "userId": "usr_5074c01e",
+      "ip": "::1",
+      "details": "Password reset successfully completed for phase5_learner_1792691558582@arjeevi.com"
+    },
+    {
+      "id": "sec-1792691558901-9go9w",
+      "timestamp": "2026-10-22T17:52:38.901Z",
+      "resolved": false,
+      "eventType": "PASSWORD_RESET_REQUESTED",
+      "severity": "INFO",
+      "ip": "::1",
+      "details": "Password recovery token generated for phase5_learner_1792691558582@arjeevi.com"
+    },
+    {
+      "id": "sec-1792691558886-yiprr",
+      "timestamp": "2026-10-22T17:52:38.886Z",
+      "resolved": false,
+      "eventType": "SESSIONS_REVOKED",
+      "severity": "INFO",
+      "userId": "usr_5074c01e",
+      "ip": "::1",
+      "details": "User revoked all other active sessions except sess_af1097b5-d"
+    },
+    {
+      "id": "sec-1792691558870-33i4i",
+      "timestamp": "2026-10-22T17:52:38.870Z",
+      "resolved": false,
+      "eventType": "CERTIFICATE_EMAIL_REQUESTED",
+      "severity": "INFO",
+      "userId": "usr_5074c01e",
+      "details": "User requested certificate email dispatch. Service configured: false"
+    },
+    {
+      "id": "sec-1792691558825-n8u6s",
+      "timestamp": "2026-10-22T17:52:38.825Z",
+      "resolved": false,
+      "eventType": "CERTIFICATE_ISSUED",
+      "severity": "INFO",
+      "userId": "usr_5074c01e",
+      "details": "Certificate ARJ-2026-46C6E5AD issued to Pooja Arjeevi for Beginner proficiency."
+    },
+    {
+      "id": "sec-1792691558777-64393",
+      "timestamp": "2026-10-22T17:52:38.777Z",
+      "resolved": false,
+      "eventType": "SUBSCRIPTION_ACTIVATED",
+      "severity": "INFO",
+      "userId": "usr_5074c01e",
+      "details": "₹49/month Student Fluency Pass activated. Order: order_1792691558742_7890131e, Payment: pay_test_1792691558763"
+    },
+    {
+      "id": "sec-1792691558758-cmz75",
+      "timestamp": "2026-10-22T17:52:38.758Z",
+      "resolved": false,
+      "eventType": "SUSPICIOUS_PAYMENT_OR_TRIAL_MANIPULATION",
+      "severity": "CRITICAL",
+      "ip": "::1",
+      "userId": "usr_5074c01e",
+      "details": "Invalid payment signature attempt on order order_1792691558742_7890131e",
+      "recommendedAction": "Revoke compromised trial or review manual payment audit trail immediately."
+    },
+    {
+      "id": "sec-1792691558713-liy0p",
+      "timestamp": "2026-10-22T17:52:38.713Z",
+      "resolved": false,
+      "eventType": "TRIAL_ACTIVATED",
+      "severity": "INFO",
+      "userId": "usr_5074c01e",
+      "details": "7-Day AI Teacher trial initiated. Expires: 2026-10-29T17:52:38.707Z"
+    },
+    {
+      "id": "sec-1792691558690-p0jvo",
+      "timestamp": "2026-10-22T17:52:38.690Z",
+      "resolved": false,
+      "eventType": "NEW_USER_REGISTERED",
+      "severity": "INFO",
+      "userId": "usr_5074c01e",
+      "ip": "::1",
+      "details": "New account created: phase5_learner_1792691558582@arjeevi.com"
+    },
+    {
+      "id": "sec-1792691495833-mh9r5",
+      "timestamp": "2026-10-22T17:51:35.833Z",
+      "resolved": false,
+      "eventType": "UNAUTHORIZED_ACCESS_ATTEMPT",
+      "severity": "HIGH",
+      "ip": "::1",
+      "path": "/api/security/stats",
+      "userId": "usr_4bf39bed",
+      "details": "User with role [learner] attempted to access protected resource: /api/security/stats",
+      "recommendedAction": "Validate token integrity and verify role permissions."
+    },
+    {
+      "id": "sec-1792691495739-qknv8",
+      "timestamp": "2026-10-22T17:51:35.739Z",
+      "resolved": false,
+      "eventType": "PASSWORD_RESET_COMPLETED",
+      "severity": "INFO",
+      "userId": "usr_4bf39bed",
+      "ip": "::1",
+      "details": "Password reset successfully completed for phase5_learner_1792691495307@arjeevi.com"
+    },
+    {
+      "id": "sec-1792691495637-7na37",
+      "timestamp": "2026-10-22T17:51:35.637Z",
+      "resolved": false,
+      "eventType": "PASSWORD_RESET_REQUESTED",
+      "severity": "INFO",
+      "ip": "::1",
+      "details": "Password recovery token generated for phase5_learner_1792691495307@arjeevi.com"
+    },
+    {
+      "id": "sec-1792691495609-rqrvz",
+      "timestamp": "2026-10-22T17:51:35.609Z",
+      "resolved": false,
+      "eventType": "SESSIONS_REVOKED",
+      "severity": "INFO",
+      "userId": "usr_4bf39bed",
+      "ip": "::1",
+      "details": "User revoked all other active sessions except sess_661c642b-7"
+    },
+    {
+      "id": "sec-1792691495587-v5z3o",
+      "timestamp": "2026-10-22T17:51:35.587Z",
+      "resolved": false,
+      "eventType": "CERTIFICATE_EMAIL_REQUESTED",
+      "severity": "INFO",
+      "userId": "usr_4bf39bed",
+      "details": "User requested certificate email dispatch. Service configured: false"
+    },
+    {
+      "id": "sec-1792691495546-6msb7",
+      "timestamp": "2026-10-22T17:51:35.546Z",
+      "resolved": false,
+      "eventType": "CERTIFICATE_ISSUED",
+      "severity": "INFO",
+      "userId": "usr_4bf39bed",
+      "details": "Certificate ARJ-2026-E7D7FB71 issued to Pooja Arjeevi for Beginner proficiency."
+    },
+    {
+      "id": "sec-1792691495499-nnxoy",
+      "timestamp": "2026-10-22T17:51:35.499Z",
+      "resolved": false,
+      "eventType": "SUBSCRIPTION_ACTIVATED",
+      "severity": "INFO",
+      "userId": "usr_4bf39bed",
+      "details": "₹49/month Student Fluency Pass activated. Order: order_1792691495472_1a4a9cf9, Payment: pay_test_1792691495484"
+    },
+    {
+      "id": "sec-1792691495477-bfidu",
+      "timestamp": "2026-10-22T17:51:35.477Z",
+      "resolved": false,
+      "eventType": "SUSPICIOUS_PAYMENT_OR_TRIAL_MANIPULATION",
+      "severity": "CRITICAL",
+      "ip": "::1",
+      "userId": "usr_4bf39bed",
+      "details": "Invalid payment signature attempt on order order_1792691495472_1a4a9cf9",
+      "recommendedAction": "Revoke compromised trial or review manual payment audit trail immediately."
+    },
+    {
+      "id": "sec-1792691495448-ruo0f",
+      "timestamp": "2026-10-22T17:51:35.448Z",
+      "resolved": false,
+      "eventType": "TRIAL_ACTIVATED",
+      "severity": "INFO",
+      "userId": "usr_4bf39bed",
+      "details": "7-Day AI Teacher trial initiated. Expires: 2026-10-29T17:51:35.442Z"
+    },
+    {
+      "id": "sec-1792691495416-1yoov",
+      "timestamp": "2026-10-22T17:51:35.416Z",
+      "resolved": false,
+      "eventType": "NEW_USER_REGISTERED",
+      "severity": "INFO",
+      "userId": "usr_4bf39bed",
+      "ip": "::1",
+      "details": "New account created: phase5_learner_1792691495307@arjeevi.com"
+    },
+    {
+      "id": "sec-1792691484316-b6c6j",
+      "timestamp": "2026-10-22T17:51:24.316Z",
+      "resolved": false,
+      "eventType": "USER_REPORTED_AND_BLOCKED",
+      "severity": "HIGH",
+      "userId": "test_user_a_1792691484167",
+      "details": "User reported test_user_b_1792691484167 for reason: Inappropriate language or abuse. Blocklist updated."
+    },
+    {
+      "id": "sec-1792691484085-mmpzc",
+      "timestamp": "2026-10-22T17:51:24.085Z",
+      "resolved": false,
+      "eventType": "NEW_USER_REGISTERED",
+      "severity": "INFO",
+      "userId": "usr_59eb2dfe",
+      "ip": "::1",
+      "details": "New account created: phase4_learner_1792691483994@arjeevi.com"
+    },
+    {
+      "id": "sec-1792691437687-ctgm1",
+      "timestamp": "2026-10-22T17:50:37.687Z",
+      "resolved": false,
+      "eventType": "PROFILE_UPDATED",
+      "severity": "INFO",
+      "userId": "usr_ee318ca4",
+      "ip": "::1",
+      "details": "Profile preferences updated for phase1_user_1792691437493@arjeevi.com"
+    },
+    {
+      "id": "sec-1792691437563-sdzvy",
+      "timestamp": "2026-10-22T17:50:37.563Z",
+      "resolved": false,
+      "eventType": "NEW_USER_REGISTERED",
+      "severity": "INFO",
+      "userId": "usr_ee318ca4",
+      "ip": "::1",
+      "details": "New account created: phase1_user_1792691437493@arjeevi.com"
+    },
+    {
+      "id": "sec-1792691408304-0b13v",
+      "timestamp": "2026-10-22T17:50:08.304Z",
+      "resolved": false,
+      "eventType": "UNAUTHORIZED_ACCESS_ATTEMPT",
+      "severity": "HIGH",
+      "ip": "::1",
+      "path": "/api/security/stats",
+      "userId": "usr_61025149",
+      "details": "User with role [learner] attempted to access protected resource: /api/security/stats",
+      "recommendedAction": "Validate token integrity and verify role permissions."
+    },
+    {
+      "id": "sec-1792691408233-kefs4",
+      "timestamp": "2026-10-22T17:50:08.233Z",
+      "resolved": false,
+      "eventType": "PASSWORD_RESET_COMPLETED",
+      "severity": "INFO",
+      "userId": "usr_61025149",
+      "ip": "::1",
+      "details": "Password reset successfully completed for phase5_learner_1792691407773@arjeevi.com"
+    },
+    {
+      "id": "sec-1792691408143-637ai",
+      "timestamp": "2026-10-22T17:50:08.143Z",
+      "resolved": false,
+      "eventType": "PASSWORD_RESET_REQUESTED",
+      "severity": "INFO",
+      "ip": "::1",
+      "details": "Password recovery token generated for phase5_learner_1792691407773@arjeevi.com"
+    },
+    {
+      "id": "sec-1792691408108-dckus",
+      "timestamp": "2026-10-22T17:50:08.108Z",
+      "resolved": false,
+      "eventType": "SESSIONS_REVOKED",
+      "severity": "INFO",
+      "userId": "usr_61025149",
+      "ip": "::1",
+      "details": "User revoked all other active sessions except sess_52207c5c-2"
+    },
+    {
+      "id": "sec-1792691408075-1llex",
+      "timestamp": "2026-10-22T17:50:08.075Z",
+      "resolved": false,
+      "eventType": "CERTIFICATE_EMAIL_REQUESTED",
+      "severity": "INFO",
+      "userId": "usr_61025149",
+      "details": "User requested certificate email dispatch. Service configured: false"
+    },
+    {
+      "id": "sec-1792691408031-tn82d",
+      "timestamp": "2026-10-22T17:50:08.031Z",
+      "resolved": false,
+      "eventType": "CERTIFICATE_ISSUED",
+      "severity": "INFO",
+      "userId": "usr_61025149",
+      "details": "Certificate ARJ-2026-284DB1C6 issued to Pooja Arjeevi for Beginner proficiency."
+    },
+    {
+      "id": "sec-1792691407988-f4jwq",
+      "timestamp": "2026-10-22T17:50:07.988Z",
+      "resolved": false,
+      "eventType": "SUBSCRIPTION_ACTIVATED",
+      "severity": "INFO",
+      "userId": "usr_61025149",
+      "details": "₹49/month Student Fluency Pass activated. Order: order_1792691407948_f66ea0b1, Payment: pay_test_1792691407969"
+    },
+    {
+      "id": "sec-1792691407964-bw8xy",
+      "timestamp": "2026-10-22T17:50:07.964Z",
+      "resolved": false,
+      "eventType": "SUSPICIOUS_PAYMENT_OR_TRIAL_MANIPULATION",
+      "severity": "CRITICAL",
+      "ip": "::1",
+      "userId": "usr_61025149",
+      "details": "Invalid payment signature attempt on order order_1792691407948_f66ea0b1",
+      "recommendedAction": "Revoke compromised trial or review manual payment audit trail immediately."
+    },
+    {
+      "id": "sec-1792691407908-zw1c3",
+      "timestamp": "2026-10-22T17:50:07.908Z",
+      "resolved": false,
+      "eventType": "TRIAL_ACTIVATED",
+      "severity": "INFO",
+      "userId": "usr_61025149",
+      "details": "7-Day AI Teacher trial initiated. Expires: 2026-10-29T17:50:07.902Z"
+    },
+    {
+      "id": "sec-1792691407879-b7iiv",
+      "timestamp": "2026-10-22T17:50:07.879Z",
+      "resolved": false,
+      "eventType": "NEW_USER_REGISTERED",
+      "severity": "INFO",
+      "userId": "usr_61025149",
+      "ip": "::1",
+      "details": "New account created: phase5_learner_1792691407773@arjeevi.com"
+    },
+    {
+      "id": "sec-1792691363135-skkyp",
+      "timestamp": "2026-10-22T17:49:23.135Z",
+      "resolved": false,
+      "eventType": "FAILED_LOGIN_ATTEMPT",
+      "severity": "INFO",
+      "ip": "::1",
+      "targetEmail": "admin@arjeevi.com",
+      "details": "Invalid credentials supplied.",
+      "recommendedAction": "Monitor trend."
+    },
+    {
+      "id": "sec-1792691363060-s335a",
+      "timestamp": "2026-10-22T17:49:23.060Z",
+      "resolved": false,
+      "eventType": "UNAUTHORIZED_ACCESS_ATTEMPT",
+      "severity": "HIGH",
+      "ip": "::1",
+      "path": "/api/security/stats",
+      "userId": "usr_ad5af3ca",
+      "details": "User with role [learner] attempted to access protected resource: /api/security/stats",
+      "recommendedAction": "Validate token integrity and verify role permissions."
+    },
+    {
+      "id": "sec-1792691362974-yossg",
+      "timestamp": "2026-10-22T17:49:22.974Z",
+      "resolved": false,
+      "eventType": "PASSWORD_RESET_COMPLETED",
+      "severity": "INFO",
+      "userId": "usr_ad5af3ca",
+      "ip": "::1",
+      "details": "Password reset successfully completed for phase5_learner_1792691362469@arjeevi.com"
+    },
+    {
+      "id": "sec-1792691362874-znjpa",
+      "timestamp": "2026-10-22T17:49:22.874Z",
+      "resolved": false,
+      "eventType": "PASSWORD_RESET_REQUESTED",
+      "severity": "INFO",
+      "ip": "::1",
+      "details": "Password recovery token generated for phase5_learner_1792691362469@arjeevi.com"
+    },
+    {
+      "id": "sec-1792691362843-b3pv8",
+      "timestamp": "2026-10-22T17:49:22.843Z",
+      "resolved": false,
+      "eventType": "SESSIONS_REVOKED",
+      "severity": "INFO",
+      "userId": "usr_ad5af3ca",
+      "ip": "::1",
+      "details": "User revoked all other active sessions except sess_dbe435e2-6"
+    },
+    {
+      "id": "sec-1792691362809-vdr6a",
+      "timestamp": "2026-10-22T17:49:22.809Z",
+      "resolved": false,
+      "eventType": "CERTIFICATE_EMAIL_REQUESTED",
+      "severity": "INFO",
+      "userId": "usr_ad5af3ca",
+      "details": "User requested certificate email dispatch. Service configured: false"
+    },
+    {
+      "id": "sec-1792691362767-acdtd",
+      "timestamp": "2026-10-22T17:49:22.767Z",
+      "resolved": false,
+      "eventType": "CERTIFICATE_ISSUED",
+      "severity": "INFO",
+      "userId": "usr_ad5af3ca",
+      "details": "Certificate ARJ-2026-BA6070D2 issued to Pooja Arjeevi for Beginner proficiency."
+    },
+    {
+      "id": "sec-1792691362718-3wohj",
+      "timestamp": "2026-10-22T17:49:22.718Z",
+      "resolved": false,
+      "eventType": "CONSISTENCY_REWARD_AWARDED",
+      "severity": "INFO",
+      "userId": "usr-demo-learner",
+      "details": "Awarded 14-day trial extension to Pavan Kumar for consistent learning (Streak: 8)."
+    },
+    {
+      "id": "sec-1792691362687-2ysom",
+      "timestamp": "2026-10-22T17:49:22.688Z",
+      "resolved": false,
+      "eventType": "SUBSCRIPTION_ACTIVATED",
+      "severity": "INFO",
+      "userId": "usr_ad5af3ca",
+      "details": "₹49/month Student Fluency Pass activated. Order: order_1792691362652_8ab5827c, Payment: pay_test_1792691362674"
+    },
+    {
+      "id": "sec-1792691362669-dvv0o",
+      "timestamp": "2026-10-22T17:49:22.669Z",
+      "resolved": false,
+      "eventType": "SUSPICIOUS_PAYMENT_OR_TRIAL_MANIPULATION",
+      "severity": "CRITICAL",
+      "ip": "::1",
+      "userId": "usr_ad5af3ca",
+      "details": "Invalid payment signature attempt on order order_1792691362652_8ab5827c",
+      "recommendedAction": "Revoke compromised trial or review manual payment audit trail immediately."
+    },
+    {
+      "id": "sec-1792691362616-xw08f",
+      "timestamp": "2026-10-22T17:49:22.616Z",
+      "resolved": false,
+      "eventType": "TRIAL_ACTIVATED",
+      "severity": "INFO",
+      "userId": "usr_ad5af3ca",
+      "details": "7-Day AI Teacher trial initiated. Expires: 2026-10-29T17:49:22.603Z"
+    },
+    {
+      "id": "sec-1792691362587-pm13e",
+      "timestamp": "2026-10-22T17:49:22.587Z",
+      "resolved": false,
+      "eventType": "NEW_USER_REGISTERED",
+      "severity": "INFO",
+      "userId": "usr_ad5af3ca",
+      "ip": "::1",
+      "details": "New account created: phase5_learner_1792691362469@arjeevi.com"
+    },
+    {
+      "id": "sec-1792690627537-neqzp",
+      "timestamp": "2026-10-22T17:37:07.537Z",
+      "resolved": false,
+      "eventType": "USER_REPORTED_AND_BLOCKED",
+      "severity": "HIGH",
+      "userId": "test_user_a_1792690627399",
+      "details": "User reported test_user_b_1792690627399 for reason: Inappropriate language or abuse. Blocklist updated."
+    },
+    {
+      "id": "sec-1792690627310-t79jo",
+      "timestamp": "2026-10-22T17:37:07.310Z",
+      "resolved": false,
+      "eventType": "NEW_USER_REGISTERED",
+      "severity": "INFO",
+      "userId": "usr_b692e890",
+      "ip": "::1",
+      "details": "New account created: phase4_learner_1792690627215@arjeevi.com"
+    },
+    {
+      "id": "sec-1792690541817-f3qrv",
+      "timestamp": "2026-10-22T17:35:41.817Z",
+      "resolved": false,
+      "eventType": "NEW_USER_REGISTERED",
+      "severity": "INFO",
+      "userId": "usr_ef9f09a0",
+      "ip": "::1",
+      "details": "New account created: phase4_learner_1792690541731@arjeevi.com"
+    },
+    {
+      "id": "sec-1792690509965-o0gu7",
+      "timestamp": "2026-10-22T17:35:09.965Z",
+      "resolved": false,
+      "eventType": "PROFILE_UPDATED",
+      "severity": "INFO",
+      "userId": "usr_9566d1de",
+      "ip": "::1",
+      "details": "Profile preferences updated for phase1_user_1792690509794@arjeevi.com"
+    },
+    {
+      "id": "sec-1792690509864-nal5e",
+      "timestamp": "2026-10-22T17:35:09.864Z",
+      "resolved": false,
+      "eventType": "NEW_USER_REGISTERED",
+      "severity": "INFO",
+      "userId": "usr_9566d1de",
+      "ip": "::1",
+      "details": "New account created: phase1_user_1792690509794@arjeevi.com"
+    },
+    {
+      "id": "sec-1792690459433-xlrb2",
+      "timestamp": "2026-10-22T17:34:19.433Z",
+      "resolved": false,
+      "eventType": "USER_REPORTED_AND_BLOCKED",
+      "severity": "HIGH",
+      "userId": "test_user_a",
+      "details": "User reported test_user_b for reason: Inappropriate language or abuse. Blocklist updated."
+    },
+    {
+      "id": "sec-1792690459225-kcvwc",
+      "timestamp": "2026-10-22T17:34:19.225Z",
+      "resolved": false,
+      "eventType": "NEW_USER_REGISTERED",
+      "severity": "INFO",
+      "userId": "usr_9a94dcdb",
+      "ip": "::1",
+      "details": "New account created: phase4_learner_1792690459122@arjeevi.com"
+    },
+    {
+      "id": "sec-1792690380777-b9l3o",
+      "timestamp": "2026-10-22T17:33:00.777Z",
+      "resolved": false,
+      "eventType": "FAILED_LOGIN_ATTEMPT",
+      "severity": "INFO",
+      "ip": "::1",
+      "targetEmail": "learner@arjeevi.com",
+      "details": "Invalid credentials supplied.",
+      "recommendedAction": "Monitor trend."
+    },
+    {
+      "id": "sec-1792690380703-8dtsc",
+      "timestamp": "2026-10-22T17:33:00.703Z",
+      "resolved": false,
+      "eventType": "FAILED_LOGIN_ATTEMPT",
+      "severity": "INFO",
+      "ip": "::1",
+      "targetEmail": "learner@arjeevi.com",
+      "details": "Invalid credentials supplied.",
+      "recommendedAction": "Monitor trend."
+    },
+    {
+      "id": "sec-1792689815414-qzfue",
+      "timestamp": "2026-10-22T17:23:35.414Z",
+      "resolved": false,
+      "eventType": "PROFILE_UPDATED",
+      "severity": "INFO",
+      "userId": "usr_471b7868",
+      "ip": "::1",
+      "details": "Profile preferences updated for phase1_user_1792689815234@arjeevi.com"
+    },
+    {
+      "id": "sec-1792689815307-u95t7",
+      "timestamp": "2026-10-22T17:23:35.307Z",
+      "resolved": false,
+      "eventType": "NEW_USER_REGISTERED",
+      "severity": "INFO",
+      "userId": "usr_471b7868",
+      "ip": "::1",
+      "details": "New account created: phase1_user_1792689815234@arjeevi.com"
+    },
+    {
+      "id": "sec-1792689129556-iqy3z",
+      "timestamp": "2026-10-22T17:12:09.556Z",
+      "resolved": false,
+      "eventType": "PROFILE_UPDATED",
+      "severity": "INFO",
+      "userId": "usr_784f15de",
+      "ip": "::1",
+      "details": "Profile preferences updated for phase1_user_1792689129387@arjeevi.com"
+    },
+    {
+      "id": "sec-1792689129457-d2q85",
+      "timestamp": "2026-10-22T17:12:09.457Z",
+      "resolved": false,
+      "eventType": "NEW_USER_REGISTERED",
+      "severity": "INFO",
+      "userId": "usr_784f15de",
+      "ip": "::1",
+      "details": "New account created: phase1_user_1792689129387@arjeevi.com"
+    },
+    {
+      "id": "sec-1792688579011-6yhmb",
+      "timestamp": "2026-10-22T17:02:59.011Z",
+      "resolved": false,
+      "eventType": "PROFILE_UPDATED",
+      "severity": "INFO",
+      "userId": "usr_4eafd160",
+      "ip": "::1",
+      "details": "Profile preferences updated for phase1_user_1792688578811@arjeevi.com"
+    },
+    {
+      "id": "sec-1792688578908-jhqp4",
+      "timestamp": "2026-10-22T17:02:58.908Z",
+      "resolved": false,
+      "eventType": "NEW_USER_REGISTERED",
+      "severity": "INFO",
+      "userId": "usr_4eafd160",
+      "ip": "::1",
+      "details": "New account created: phase1_user_1792688578811@arjeevi.com"
+    },
+    {
+      "id": "sec-1792688521262-r0e5u",
+      "timestamp": "2026-10-22T17:02:01.262Z",
+      "resolved": false,
+      "eventType": "PROFILE_UPDATED",
+      "severity": "INFO",
+      "userId": "usr_27f2b6ff",
+      "ip": "::1",
+      "details": "Profile preferences updated for phase1_user_1792688521070@arjeevi.com"
+    },
+    {
+      "id": "sec-1792687310115-334ti",
+      "timestamp": "2026-10-22T16:41:50.115Z",
+      "resolved": false,
+      "eventType": "SUBSCRIPTION_ACTIVATED",
+      "severity": "INFO",
+      "userId": "usr_d35f85a1",
+      "details": "₹49/month AI Teacher subscription activated. Order: order_1792687310097_3c1eca61, Payment: pay_test_1792687310099"
+    },
+    {
+      "id": "sec-1792687185491-9n3jd",
+      "timestamp": "2026-10-22T16:39:45.491Z",
+      "resolved": false,
+      "eventType": "TRIAL_ACTIVATED",
+      "severity": "INFO",
+      "userId": "usr_d35f85a1",
+      "details": "7-Day AI Teacher trial initiated. Expires: 2026-10-29T16:39:45.483Z"
+    },
+    {
+      "id": "sec-1792687137641-38ykc",
+      "timestamp": "2026-10-22T16:38:57.641Z",
+      "resolved": false,
+      "eventType": "NEW_USER_REGISTERED",
+      "severity": "INFO",
+      "userId": "usr_d35f85a1",
+      "ip": "::1",
+      "details": "New account created: arjunkumaras1325@gmail.com"
+    },
+    {
+      "id": "sec-1792687101924-aso0k",
+      "timestamp": "2026-10-22T16:38:21.924Z",
+      "resolved": false,
+      "eventType": "FAILED_LOGIN_ATTEMPT",
+      "severity": "INFO",
+      "ip": "::1",
+      "targetEmail": "organizer@giveflow.org",
+      "details": "Invalid credentials supplied.",
+      "recommendedAction": "Monitor trend."
+    },
+    {
+      "id": "sec-1792686992641-iffw3",
+      "timestamp": "2026-10-22T16:36:32.641Z",
+      "resolved": false,
+      "eventType": "SUBSCRIPTION_ACTIVATED",
+      "severity": "INFO",
+      "userId": "usr_54a8101c",
+      "details": "₹49/month AI Teacher subscription activated. Order: order_1792686992601_2df5b93d, Payment: pay_test_suite_123"
+    },
+    {
+      "id": "sec-1792686992531-z0jno",
+      "timestamp": "2026-10-22T16:36:32.531Z",
+      "resolved": false,
+      "eventType": "TRIAL_ACTIVATED",
+      "severity": "INFO",
+      "userId": "usr_54a8101c",
+      "details": "7-Day AI Teacher trial initiated. Expires: 2026-10-29T16:36:32.523Z"
+    },
+    {
+      "id": "sec-1792686992395-w7q7r",
+      "timestamp": "2026-10-22T16:36:32.395Z",
+      "resolved": false,
+      "eventType": "NEW_USER_REGISTERED",
+      "severity": "INFO",
+      "userId": "usr_54a8101c",
+      "ip": "::1",
+      "details": "New account created: test_learner_1792686992292@arjeevi.com"
+    }
+  ],
+  "passwordResetTokens": [],
+  "errorCorrection": [
+    {
+      "id": "err-1",
+      "difficulty": "Beginner",
+      "incorrectSentence": "I am 22 year old and I am student.",
+      "options": [
+        "I am 22 years old and I am a student.",
+        "I am 22 year and I am a student.",
+        "I am 22 years and I am student.",
+        "I am 22 year old and I am the student."
+      ],
+      "correctAnswer": "I am 22 years old and I am a student.",
+      "ruleExplanation": "Say \"years old\" (plural) when stating age, and include the indefinite article \"a\" before singular professions/roles (\"a student\").",
+      "kannadaHint": "ವಯಸ್ಸನ್ನು ಹೇಳುವಾಗ \"years old\" ಮತ್ತು ವೃತ್ತಿಗೆ \"a student\" ಬಳಸಬೇಕು."
+    },
+    {
+      "id": "err-2",
+      "difficulty": "Beginner",
+      "incorrectSentence": "He don't likes to drink cold coffee.",
+      "options": [
+        "He doesn't like to drink cold coffee.",
+        "He don't like to drink cold coffee.",
+        "He doesn't likes to drink cold coffee.",
+        "He not likes to drink cold coffee."
+      ],
+      "correctAnswer": "He doesn't like to drink cold coffee.",
+      "ruleExplanation": "Third person singular (He/She/It) uses \"doesn't\", followed by base verb \"like\" (never \"likes\" after auxiliary does).",
+      "kannadaHint": "He/She ಜೊತೆಗೆ \"doesn't like\" ಎಂದು ಬಳಸಬೇಕು."
+    },
+    {
+      "id": "err-3",
+      "difficulty": "Beginner",
+      "incorrectSentence": "Yesterday I did went to the university.",
+      "options": [
+        "Yesterday I went to the university.",
+        "Yesterday I did go to the university.",
+        "Yesterday I was went to the university.",
+        "Yesterday I did gone to the university."
+      ],
+      "correctAnswer": "Yesterday I went to the university.",
+      "ruleExplanation": "In past simple, use the past verb \"went\". If using emphatic \"did\", the verb must be base form (\"did go\"), never \"did went\".",
+      "kannadaHint": "ಭೂತಕಾಲದಲ್ಲಿ \"I went\" ಎನ್ನಿ, \"did went\" ತಪ್ಪು."
+    },
+    {
+      "id": "err-4",
+      "difficulty": "Intermediate",
+      "incorrectSentence": "Let us discuss about the project schedule.",
+      "options": [
+        "Let us discuss the project schedule.",
+        "Let us discuss on the project schedule.",
+        "Let us discuss regarding the project schedule.",
+        "Let us discussed about the project schedule."
+      ],
+      "correctAnswer": "Let us discuss the project schedule.",
+      "ruleExplanation": "\"Discuss\" already means \"to talk about\", so adding \"about\" is redundant. Say \"discuss the schedule\".",
+      "kannadaHint": "\"Discuss\" ಪದದೊಂದಿಗೆ \"about\" ಬಳಸುವ ಅಗತ್ಯವಿಲ್ಲ."
+    },
+    {
+      "id": "err-5",
+      "difficulty": "Intermediate",
+      "incorrectSentence": "One of my friend works in Infosys.",
+      "options": [
+        "One of my friends works at Infosys.",
+        "One of my friend work at Infosys.",
+        "One of my friends work in Infosys.",
+        "One my friend works at Infosys."
+      ],
+      "correctAnswer": "One of my friends works at Infosys.",
+      "ruleExplanation": "\"One of\" is always followed by a plural noun (\"friends\"), but takes a singular verb (\"works\").",
+      "kannadaHint": "\"One of\" ನಂತರ ಬಹುವಚನ (friends) ಇರಬೇಕು."
+    },
+    {
+      "id": "err-6",
+      "difficulty": "Intermediate",
+      "incorrectSentence": "She is learning English since two years.",
+      "options": [
+        "She has been learning English for two years.",
+        "She is learning English for two years.",
+        "She has learned English since two years.",
+        "She learns English since two years."
+      ],
+      "correctAnswer": "She has been learning English for two years.",
+      "ruleExplanation": "Use present perfect continuous (\"has been learning\") with \"for\" to indicate duration over a period of time.",
+      "kannadaHint": "ಸಮಯದ ಅವಧಿಗೆ \"for two years\" ಬಳಸಬೇಕು."
+    },
+    {
+      "id": "err-7",
+      "difficulty": "Advanced",
+      "incorrectSentence": "The team could not able to cope up with the heavy workload.",
+      "options": [
+        "The team was not able to cope with the heavy workload.",
+        "The team could not able to cope with the heavy workload.",
+        "The team was not able to cope up with the heavy workload.",
+        "The team could not cope up the heavy workload."
+      ],
+      "correctAnswer": "The team was not able to cope with the heavy workload.",
+      "ruleExplanation": "1. \"Could not able to\" is double modal phrasing; say \"was not able to\". 2. The standard English idiom is \"cope with\", never \"cope up with\".",
+      "kannadaHint": "ಸರಿಯಾದ ಇಂಗ್ಲಿಷ್ ಬಳಕೆ \"cope with\", \"cope up with\" ತಪ್ಪು."
+    },
+    {
+      "id": "err-8",
+      "difficulty": "Advanced",
+      "incorrectSentence": "Had I known about the issue earlier, I would informed you immediately.",
+      "options": [
+        "Had I known about the issue earlier, I would have informed you immediately.",
+        "Had I known about the issue earlier, I will have informed you immediately.",
+        "Had I know about the issue earlier, I would have informed you immediately.",
+        "Had I known about the issue earlier, I would had informed you immediately."
+      ],
+      "correctAnswer": "Had I known about the issue earlier, I would have informed you immediately.",
+      "ruleExplanation": "Inverted third conditional structure requires \"would have + past participle\" (\"would have informed\") in the main result clause.",
+      "kannadaHint": "ಷರತ್ತುಬದ್ಧ ವಾಕ್ಯದಲ್ಲಿ \"would have informed\" ಬಳಸಬೇಕು."
+    }
+  ],
+  "dailyVocabulary": [
+    {
+      "id": "vocab-1",
+      "day": "Monday",
+      "word": "Articulate",
+      "phonetic": "/ɑːrˈtɪk.jə.lət/",
+      "partOfSpeech": "Adjective / Verb",
+      "meaning": "Able to express thoughts and ideas clearly and effectively in speech.",
+      "kannada": "ಸ್ಪಷ್ಟವಾಗಿ ಮತ್ತು ನಿರರ್ಗಳವಾಗಿ ಮಾತನಾಡುವ ಸಾಮರ್ಥ್ಯವುಳ್ಳ.",
+      "example": "She gave an articulate speech that impressed all interviewers.",
+      "question": {
+        "q": "Which sentence correctly uses \"articulate\"?",
+        "options": [
+          "He was very articulate and explained the complex problem with great clarity.",
+          "He ate an articulate breakfast this morning.",
+          "The car drove very articulate down the highway.",
+          "She felt articulate tired after the long journey."
+        ],
+        "answer": 0,
+        "explanation": "\"Articulate\" describes someone who communicates with clarity and eloquence."
+      }
+    },
+    {
+      "id": "vocab-2",
+      "day": "Tuesday",
+      "word": "Perseverance",
+      "phonetic": "/ˌpɜːr.səˈvɪr.əns/",
+      "partOfSpeech": "Noun",
+      "meaning": "Continued steady effort to achieve something despite difficulties or past mistakes.",
+      "kannada": "ಕಷ್ಟಗಳ ನಡುವೆಯೂ ಸತತ ಪ್ರಯತ್ನ, ಛಲ.",
+      "example": "Through daily perseverance, he overcame his fear of public speaking.",
+      "question": {
+        "q": "What is the closest synonym of \"perseverance\"?",
+        "options": [
+          "Hesitation",
+          "Persistence / Determination",
+          "Carelessness",
+          "Silence"
+        ],
+        "answer": 1,
+        "explanation": "Persistence and determination mean keeping going without giving up."
+      }
+    },
+    {
+      "id": "vocab-3",
+      "day": "Wednesday",
+      "word": "Resilient",
+      "phonetic": "/rɪˈzɪl.jənt/",
+      "partOfSpeech": "Adjective",
+      "meaning": "Able to quickly recover from difficulties, setbacks, or emotional strain.",
+      "kannada": "ಹಿನ್ನಡೆಗಳಿಂದ ಬೇಗನೆ ಚೇತರಿಸಿಕೊಳ್ಳುವ ಶಕ್ತಿಯುಳ್ಳ.",
+      "example": "Confident speakers are resilient; they smile through minor slips and keep talking.",
+      "question": {
+        "q": "A resilient learner is someone who:",
+        "options": [
+          "Gives up the first time they make a grammar mistake",
+          "Quickly bounces back from mistakes and continues practicing with enthusiasm",
+          "Never talks in front of other people",
+          "Speaks as fast as possible"
+        ],
+        "answer": 1,
+        "explanation": "Resilience means bouncing back stronger after an unexpected slip or challenge."
+      }
+    },
+    {
+      "id": "vocab-4",
+      "day": "Thursday",
+      "word": "Meticulous",
+      "phonetic": "/məˈtɪk.jə.ləs/",
+      "partOfSpeech": "Adjective",
+      "meaning": "Showing great attention to detail; very careful and precise.",
+      "kannada": "ಅತೀವ ಎಚ್ಚರಿಕೆ ಮತ್ತು ನಿಖರತೆಯಿಂದ ಕೆಲಸ ಮಾಡುವ.",
+      "example": "He did meticulous preparation for the campus technical presentation.",
+      "question": {
+        "q": "If a project report is described as \"meticulous\", it means:",
+        "options": [
+          "It was rushed and contains many typos",
+          "It was prepared with extraordinary care and attention to detail",
+          "It was written in the dark",
+          "It was completely plagiarized"
+        ],
+        "answer": 1,
+        "explanation": "\"Meticulous\" indicates thoroughness, accuracy, and rigorous craftsmanship."
+      }
+    },
+    {
+      "id": "vocab-5",
+      "day": "Friday",
+      "word": "Eloquent",
+      "phonetic": "/ˈel.ə.kwənt/",
+      "partOfSpeech": "Adjective",
+      "meaning": "Fluent, persuasive, and beautifully expressive in speech or writing.",
+      "kannada": "ಸುಂದರವಾಗಿ ಮತ್ತು ಪ್ರಭಾವಶಾಲಿಯಾಗಿ ಮಾತನಾಡುವ.",
+      "example": "The student representative gave an eloquent presentation about campus sustainability.",
+      "question": {
+        "q": "Which word means the opposite of \"eloquent\"?",
+        "options": [
+          "Inarticulate / Halting",
+          "Fluent",
+          "Expressive",
+          "Persuasive"
+        ],
+        "answer": 0,
+        "explanation": "\"Inarticulate\" means unable to express oneself clearly, the antonym of eloquent."
+      }
+    },
+    {
+      "id": "vocab-6",
+      "day": "Saturday",
+      "word": "Pragmatic",
+      "phonetic": "/præɡˈmæt.ɪk/",
+      "partOfSpeech": "Adjective",
+      "meaning": "Dealing with things sensibly and realistically based on practical rather than theoretical considerations.",
+      "kannada": "ವ್ಯಾವಹಾರಿಕ, ವಾಸ್ತವಿಕವಾದ.",
+      "example": "Practicing spoken conversation with friendly peers is a pragmatic way to learn English.",
+      "question": {
+        "q": "A \"pragmatic\" solution is one that is:",
+        "options": [
+          "Impractical and theoretical",
+          "Sensible, realistic, and workable in practice",
+          "Extremely expensive",
+          "Impossible to test"
+        ],
+        "answer": 1,
+        "explanation": "\"Pragmatic\" means grounded in real-world practicality and common sense."
+      }
+    },
+    {
+      "id": "vocab-7",
+      "day": "Sunday",
+      "word": "Collaborate",
+      "phonetic": "/kəˈlæb.ə.reɪt/",
+      "partOfSpeech": "Verb",
+      "meaning": "To work jointly with others on an activity or to create something together.",
+      "kannada": "ಒಟ್ಟಿಗೆ ಸೇರಿ ಕೆಲಸ ಮಾಡು, ಸಹಯೋಗಿಸು.",
+      "example": "Learners in the Speaking Club collaborate daily to polish their interview skills.",
+      "question": {
+        "q": "Which phrase means the same as \"collaborate\"?",
+        "options": [
+          "Work alone in isolation",
+          "Work together as a unified team",
+          "Compete against each other angrily",
+          "Refuse to communicate"
+        ],
+        "answer": 1,
+        "explanation": "To collaborate is to cooperate and combine strengths towards a shared goal."
+      }
+    }
+  ]
+}
